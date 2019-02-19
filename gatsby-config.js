@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Saoirse',
   },
+  pathPrefix: "/fundamentals_e-learning_course",
   plugins: [
     'gatsby-plugin-sharp',
     'gatsby-plugin-transition-link',
