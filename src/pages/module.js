@@ -300,10 +300,10 @@ class Module extends Component {
           <Aside showAside={this.state.showAside} showAsideLeft={this.state.showAsideLeft ? 'showAsideLeft': null}>
             <ButtonLerneinheiten showAsideLeft={this.state.showAsideLeft ? 'showAsideLeft': null}>
               <div>
-                <AniLink fade duration={0.2} to="/modules">
+                <Link to="/modules">
                   <FaChevronLeft />
-                </AniLink>
-                <AniLink fade duration={0.4} to="/modules">Lesson {this.state.moduleId}</AniLink>
+                </Link>
+                <Link to="/modules">Lesson {this.state.moduleId}</Link>
               </div>
               <div>
               {this.state.showAsideLeft ? <IoMdClose onClick={this.toggleAsideLeft} />: <IoMdMenu onClick={this.toggleAsideLeft}/>}
