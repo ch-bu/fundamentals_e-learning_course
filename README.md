@@ -1,3 +1,3 @@
-# Saoirse
+# Fundamentals of e-Learning
 
-An e-learning framework powered by [gatsby](https://www.gatsbyjs.org/).
+An online course on e-learning. 
