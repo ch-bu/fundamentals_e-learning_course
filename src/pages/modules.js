@@ -108,12 +108,12 @@ export default ({ data }) => {
             {modules.map(({ node }) => (
               
               <FlexElement key={node.frontmatter.module}>
-                <AniLink fade duration={0.3} direction="left" to={`/module?id=` + node.frontmatter.module + 
+                <Link to={`/module?id=` + node.frontmatter.module + 
                             '&unit=' + node.frontmatter.unit +
                             '&subunit=' + node.frontmatter.subunit}>
                     <ModuleNumber>{node.frontmatter.module}</ModuleNumber>
                     <ModuleDescription><h2>{node.frontmatter.moduleTitle}</h2></ModuleDescription>
-                </AniLink>
+                </Link>
                 {/* <ModuleDescription>
                   <span>{node.frontmatter.module}</span>
                   
