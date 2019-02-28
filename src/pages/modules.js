@@ -21,6 +21,13 @@ const Modules = styled.div`
     color: #fff;
   }
 
+  h2 {
+    margin-top: 0;
+    color: #fff;
+    padding: 4vh;
+    margin: 0;
+  }
+
   @media only screen and (min-width: 900px) {
     text-align: left;
     padding-left: 20vw;
@@ -88,6 +95,8 @@ const ModuleDescription = styled.div`
 export default ({ data }) => {
   const modules = data.allMarkdownRemark.edges;
 
+  console.log(data);
+
   return (
       <Shell>
         <Helmet>
@@ -99,12 +108,12 @@ export default ({ data }) => {
             {modules.map(({ node }) => (
               
               <FlexElement key={node.frontmatter.module}>
-                <Link to={`/module?id=` + node.frontmatter.module + 
+                <AniLink fade duration={0.3} direction="left" to={`/module?id=` + node.frontmatter.module + 
                             '&unit=' + node.frontmatter.unit +
                             '&subunit=' + node.frontmatter.subunit}>
                     <ModuleNumber>{node.frontmatter.module}</ModuleNumber>
-                    <ModuleDescription>{node.frontmatter.moduleTitle}</ModuleDescription>
-                </Link>
+                    <ModuleDescription><h2>{node.frontmatter.moduleTitle}</h2></ModuleDescription>
+                </AniLink>
                 {/* <ModuleDescription>
                   <span>{node.frontmatter.module}</span>
                   
@@ -118,7 +127,6 @@ export default ({ data }) => {
                   </AniLink>
                 </ModuleDescription> */}
               </FlexElement>
-
             ))}  
           </ModulesFlexbox>
         </Modules>
