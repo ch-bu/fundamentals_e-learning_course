@@ -16,7 +16,7 @@ const Container = styled.div`
                        "main main";
   transition: width 0.2s;
 
-  @media only screen and (min-width: 900px) {
+  @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
     grid-template-areas: ". main"
                          ". main";
     width: ${props => props.showAsideLeft ? "100%" : "60vw"};
@@ -28,7 +28,7 @@ const Container = styled.div`
 const BottomNavigation = styled.div`
   z-index: 88;
 
-  @media only screen and (min-width: 900px) {
+  @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
    display: none;
   }
 
@@ -39,7 +39,7 @@ const BottomNavigation = styled.div`
   left: 0;
   height: 60px;
   width: 100vw;
-  background-color: #20232a;
+  background-color: ${props => props.theme.darkColor};
   /* border-top: 1px solid #ede7f3; */
 
   a {
@@ -68,9 +68,9 @@ const Aside = styled.div`
   transition: bottom 0.2s;
   padding: 0px 0 80px 0;
   overflow-x: hidden;
-  border-right: 1px solid #20232a;
+  border-right: 1px solid ${props => props.theme.darkColor};
 
-  @media only screen and (min-width: 900px) {
+  @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
     padding: 70px 0 20px 0;
     position: fixed;
     z-index: 1;
@@ -92,7 +92,7 @@ const UlAside = styled.ul`
   padding: 1rem 1rem;
   color: #fff;
 
-  @media only screen and (min-width: 900px) {
+  @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
     padding: 1rem 1.8rem;
   }
 
@@ -119,10 +119,11 @@ const UlAside = styled.ul`
 
         a {
           color: rgb(183, 183, 183);
-          font-size: 0.8rem;
+          font-size: 0.9rem;
           text-decoration: none;
           background-image: none;
           text-shadow: none;
+          outline: none;
 
           &:hover {
             color: #7f7f7f;
@@ -138,11 +139,19 @@ const UlAside = styled.ul`
           }
         }
 
-        img {
+        svg {
+          /* color: white; */
+          color: ${props => props.theme.primaryColorLight};
+          padding-right: 6px;
+          filter: sepia(0.4);
+          height: 18px;
+        }
+
+        /* img {
           height: 20px;
           padding-right: 10px;
           margin: 0;
-        }
+        } */
       }
     }
   }
@@ -165,7 +174,7 @@ const ButtonLerneinheiten = styled.div`
     flex-direction: row;
     justify-content: flex-start;
     align-self: stretch;
-    background-color: ${props => props.theme.primaryColor};
+    /* background-color: ${props => props.theme.primaryColor}; */
     border-bottom: none;
     border-right: none;
     transition: background-color 0.2s;
@@ -175,13 +184,13 @@ const ButtonLerneinheiten = styled.div`
       align-self: stretch;
       display:flex;
       align-items:center;
-      color: #000;
+      color: ${props => props.theme.primaryColorLight};
       transition: color 0.2s;
       font-style: italic;
     }
 
-    @media only screen and (min-width: 900px) {
-      background-color: #20232a;
+    @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
+      background-color: ${props => props.theme.darkColor};
       border-right: 1px solid #393f4b;
       border-bottom: 1px solid #393f4b;
 
@@ -233,7 +242,7 @@ const ButtonLerneinheiten = styled.div`
     }
   }
 
-  @media only screen and (min-width: 900px) {
+  @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
     height: 50px;
     position: fixed;
     top: 0;
@@ -264,7 +273,7 @@ const VideoMain = styled.div`
   overflow-y: hidden;
   background-color: #000;
 
-  @media only screen and (min-width: 900px) {
+  @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
     top: 0px;
     /* width: ${props => props.showAsideLeft ? "75vw" : "100vw"}; */
   }
@@ -281,7 +290,7 @@ const Main = styled.div`
   padding-left: 0;
   margin: 0 auto;
   width: 90%;
-  font-size: 0.9rem;
+  font-size: 1rem;
   margin-bottom: 10vh;
   
   h1 {
@@ -291,7 +300,7 @@ const Main = styled.div`
   h1:first-child {
     font-size: 1.6rem;
 
-    @media only screen and (min-width: 900px) {
+    @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
       font-size: 2rem;
     }
   }
@@ -304,17 +313,21 @@ const Main = styled.div`
     color: red;
   }
 
-  @media only screen and (min-width: 900px) {
+  @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
     width: 80%;
     font-size: 1rem;
     padding-top: 90px;
+
+    p, li {
+      font-size: 1.1rem;
+    }
 
     h1 {
       margin-top: 2rem;
     }
   }
 
-  @media only screen and (min-width: 1200px) {
+  @media only screen and (min-width: ${props => props.theme.breakpointTwo}) {
     width: 60%;
   }
   
@@ -335,6 +348,13 @@ const Main = styled.div`
   audio {
     width: 100%;
     margin-bottom: 2rem;
+  }
+
+  .gatsby-resp-image-link {
+    margin: 40px 0;
+    box-shadow: none;
+    border: none;
+    box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2);
   }
 
   a {
@@ -366,6 +386,11 @@ const Main = styled.div`
 
   img {
     width: 100%;
+    box-shadow: 5px 5px 25px 0 rgba(46,61,73,.4);
+  }
+
+  .gatsby-resp-image-image {
+    box-shadow: 5px 5px 25px 0 rgba(46,61,73,.4);
   }
 `;
 

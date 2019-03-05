@@ -1,0 +1,53 @@
+- question: Sind digitale Medien in der Regel schädlich für Lernen?
+  answers:
+    - answer: Ja, digitale Medien lenken beim Lernen ab. Zwar lassen sich gute Lernumgebungen damit erstellen, aber durch die Möglichkeit, schnell auf andere Funktionen zu wechseln, sind Lernende abgelenkt.
+      correct: False
+      hint: Nein. Ob ein digitales Gerät lernförderlich ist, hängt sehr stark von der Nutzung ab. Zwar finden sich viele Studien, die negative Einflüsse auf das Lernen finden, allerdings spielen auch Lernenmerkmale wie die Fähigkeit zur Selbstregulation eine Rolle.
+    - answer: Das kann man so nicht sagen. Es gibt für jedes digitale Geräte sowohl Vorteile als auch Nachteile.
+      correct: True
+      hint: Richtig. Beispielsweise kann man behaupten, dass sich die Dinge besser einprägt, wenn man in einer Vorlesung per Hand alles mitschreibt, allerdings hat der Laptop den Vorteil, dass das Geschriebene schnell gesucht und gefunden werden kann. Ähnlich verhält es sich mit den anderen Geräten. Der Kontext und der Inhalt des Produktes entscheidet, ob ein Produkt lernförderlich ist.
+    - answer: Ganz im Gegenteil. Digitale Medien fördern das Lernen, da die heutige Generation Digital Natives sind und produktiv mit digitalen Medien umgehen können.
+      correct: False
+      hint: Das ist so nicht haltbar. Die Idee der Digital Natives ist mittlerweile überholt. Nur weil Menschen mit digitalen Medien aufwachsen, sind sie nicht per se besser im Umgang. Ob ein digitales Gerät lernförderlich ist, hängt sehr stark von der Nutzung ab. Zwar finden sich viele Studien, die negative Einflüsse auf das Lernen finden, allerdings spielen auch Lernenmerkmale wie die Fähigkeit zur Selbstregulation eine Rolle.
+- question: Wie groß ist der Fehler für Mareike? 
+  answers:
+    - answer: "-2"
+      correct: True
+      hint: Sehr gut. Der Fehler ist ERROR = DATA - MODEL. Also ERROR = 84 - 86 = -2
+    - answer: "2"
+      correct: False
+      hint: Nicht ganz. Erinnere dich daran das der Fehler ERROR = DATA - MODEL ist
+    - answer: "19"
+      correct: False
+      hint: Nicht ganz. Erinnere dich daran das der Fehler ERROR = DATA - MODEL ist
+    - answer: "-19"
+      correct: False
+      hint: Nicht ganz. Erinnere dich daran das der Fehler ERROR = DATA - MODEL ist
+    - answer: "4"
+      correct: False
+      hint: Nicht ganz. Erinnere dich daran das der Fehler ERROR = DATA - MODEL ist
+- question: Warum ist der Fehler beim erweiterten Modell kleiner als beim kompakten Modell? 
+  answers:
+    - answer: Da jeder weitere Parameter DATA besser erklären kann, unabhängig von der Größe des Einflusses.
+      hint: Sehr gut. Das ist richtig.
+      correct: True
+    - answer: Da das erweiterte Modell Parameter hat, die Fehler stärker reduzieren als beim kompakten Modell
+      hint: Nicht ganz. Es ist möglich, dass der Mittelwert beim kompakten Modell den Fehler bereits sehr klein hält und ein weiterer Parameter den Fehler nur minimal verkleinert.
+      correct: False
+    - answer: Da die Parameter im erweiterten Modell den Fehler substantiell reduzieren.
+      hint: Nein. Die Größe der Fehlerreduzierung ist irrelevant für die Frage. Entscheidend ist, warum der Fehler beim erweiterten Modell immer kleiner ist.
+      correct: False
+- question: Welches dieser Definitionen entspricht am ehesten der Idee des aktiven Lernens?
+  answers:
+    - answer: Aktives Lernen findet statt, wenn sich Lernende aktiv mit Konzepten und Prinzipien auseinandersetzen.
+      hint: Nicht ganz. Entscheidend ist, ob die Konzepte und Prinzipien Teil des Lernstoffes sind
+      correct: False
+    - answer: Aktives Lernen findet statt, wenn sich Lernende geistig mit dem Lernstoff beschäftigen
+      hint: Richtig. Lernende müssen den Lernstoff aktiv in ihrem Arbeitsgedächtnis verarbeiten.
+      correct: True
+    - answer: Aktives Lernen findet statt, wenn sich Lernende geistig und körperlich mit dem Lernstoff beschäftigen
+      hint: Nicht ganz. Körperliche Anstrengung ist keine Notwendigkeit für aktives Lernen.
+      correct: False
+    - answer: Aktives Lernen findet statt, wenn sich Lernende aktiv vornehmen, den Lernstoff geistig zu verarbeiten
+      hint: Trickfrage. Nein. Die Absicht ist nicht entscheidend, sondern ob Lernende zu einem bestimmten Zeitpunkt mit dem Lernstoff geistig aktiv beschäftigt sind.
+      correct: False

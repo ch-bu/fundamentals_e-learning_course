@@ -4,8 +4,6 @@ import styled from 'styled-components'
 import { Link } from "gatsby"
 import { graphql } from "gatsby"
 import Helmet from 'react-helmet';
-import AniLink from "gatsby-plugin-transition-link/AniLink";
-
 
 const Modules = styled.div`
   background-color: ${props => props.theme.darkColor};
@@ -21,14 +19,7 @@ const Modules = styled.div`
     color: #fff;
   }
 
-  h2 {
-    margin-top: 0;
-    color: #fff;
-    padding: 4vh;
-    margin: 0;
-  }
-
-  @media only screen and (min-width: 900px) {
+  @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
     text-align: left;
     padding-left: 20vw;
     padding-right: 20vw;
@@ -46,7 +37,7 @@ const ModulesFlexbox = styled.div`
   justify-content: center;
   padding-top: 3vh;
 
-  @media only screen and (min-width: 900px) {
+  @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
     justify-content: flex-start;
   }
 `;
@@ -59,7 +50,7 @@ const FlexElement = styled.div`
   transition: background-color 0.3s;
   border: 1px solid ${props => props.theme.primaryColorLight};
   
-  @media only screen and (min-width: 900px) {
+  @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
     width: 100%;
     margin-right: 2rem;
     height: 180px;
@@ -95,8 +86,6 @@ const ModuleDescription = styled.div`
 export default ({ data }) => {
   const modules = data.allMarkdownRemark.edges;
 
-  console.log(data);
-
   return (
       <Shell>
         <Helmet>
@@ -112,21 +101,10 @@ export default ({ data }) => {
                             '&unit=' + node.frontmatter.unit +
                             '&subunit=' + node.frontmatter.subunit}>
                     <ModuleNumber>{node.frontmatter.module}</ModuleNumber>
-                    <ModuleDescription><h2>{node.frontmatter.moduleTitle}</h2></ModuleDescription>
+                    <ModuleDescription>{node.frontmatter.moduleTitle}</ModuleDescription>
                 </Link>
-                {/* <ModuleDescription>
-                  <span>{node.frontmatter.module}</span>
-                  
-                  <p className="title">{node.frontmatter.moduleTitle}</p> 
-                  <p>{node.excerpt}</p>
-                
-                  <AniLink fade duration={0.3} to={`/module?id=` + node.frontmatter.module + 
-                            '&unit=' + node.frontmatter.unit +
-                            '&subunit=' + node.frontmatter.subunit}>
-                    Zum Modul
-                  </AniLink>
-                </ModuleDescription> */}
               </FlexElement>
+              
             ))}  
           </ModulesFlexbox>
         </Modules>

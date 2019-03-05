@@ -1,0 +1,21 @@
+- question: Bring folgende Begriffe in die richtige Reihenfolge. 
+  hint: Versuche es weiter. 
+  answers:
+    - answer: Ja
+    - answer: Ich gehe in den Wald
+    - answer: Wir machen uns keinen Hel draus
+
+- question: Ordne folgenden Gedankengang eines Statistikers in die richtige Reihenfolge.
+  hint: Das stimmt noch nicht ganz. Denke weiter drüber nach.
+  answers:
+    - answer: Ich möchte ein statistisches Modell für die Größe von Personen erstellen
+    - answer: Ich brauche genug Parameter, um den Fehler substantiell zu reduzieren, sollte aber nicht zu viele Parameter verwenden.
+    - answer: Ein guter Parameter wäre die Größe der Eltern, da die Größe von Menschen hocherblich ist.
+    - answer: Mein Modell hat daher zwei Parameter. 
+- question: Ordne folgende Lernaktivitäten danach, wie aktiv Miranda lernt. Ordne die aktivste Lerntätigkeit nach oben, die am wenigsten aktivte Tätigkeit nach unten.
+  hint: Noch nicht. Wenn du unsicher bist, schau dir nochmal die Erklärung zum aktiven Lernen an. Jede Lernaktivität dauert eine Stunde.
+  answers:
+    - answer: Miranda schreibt eine Zusammenfassung des Textes, der erklärt, was natürliche Selektion ist.
+    - answer: Miranda liest den Text, welcher erklärt, was natürliche Selektion ist.
+    - answer: Miranda erstellt eine Concept Map zum Thema evolutionäre Psychologie.
+    - answer: Miranda redet mit Freunden darüber wie schlecht der Dozent die Inhalte während der Vorlesung erklärt hat.

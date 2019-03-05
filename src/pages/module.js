@@ -1,30 +1,24 @@
 import React, { Component } from "react"
 import rehypeReact from "rehype-react"
-import { Link, navigate } from "gatsby"
+import { Link } from "gatsby"
 import Shell from '../layouts/shell';
 import { graphql } from "gatsby"
 import Helmet from 'react-helmet';
 import Url from 'url-parse';
 import queryString from 'query-string';
-import AniLink from "gatsby-plugin-transition-link/AniLink";
+import prism from "prismjs/themes/prism-okaidia.css";
+import katex from "katex/dist/katex.min.css"
 
 // Markdown components
 import Video from "../components/video";
 import Audio from "../components/audio";
-import Quiz from "../components/quiz";
+import SingleChoice from "../components/questions/singlechoice";
+import MultipleChoice from "../components/questions/multiplechoice";
+import OrderQuestion from "../components/questions/orderquestion";
 
 // Icons 
-import { FaChevronLeft, FaChevronRight, FaFolderPlus, FaFolderMinus, FaAngleRight, FaAngleLeft } from "react-icons/fa";
+import { FaChevronLeft, FaChevronRight, FaRunning, FaFolderPlus, FaLightbulb, FaQuestion, FaVideo, FaInfo, FaFolderMinus, FaAngleRight, FaBookOpen, FaAngleLeft } from "react-icons/fa";
 import {IoMdMenu, IoMdClose} from "react-icons/io";
-
-// Images for articles
-import instruction from '../assets/icons/instruction.png';
-import question from '../assets/icons/question.png';
-import poll from '../assets/icons/poll.png';
-import videoIcon from '../assets/icons/video.png';
-import exercise from '../assets/icons/exercise.png';
-import information from '../assets/icons/info.png';
-import reflection from '../assets/icons/reflection.png';
 
 // Styled components
 import {Container, Aside, Main, UlAside, BottomNavigation, NextButton, PreviousButton, ButtonLerneinheiten } from '../assets/styled-components/subunit_styled.js';
@@ -62,13 +56,13 @@ class Module extends Component {
       });
 
       // We need images for the aside articles
-      const types = {'instruction': instruction,
-                    'question': question,
-                    'poll': poll,
-                    'video': videoIcon,
-                    'exercise': exercise,
-                    'reflection': reflection,
-                    'information': information};
+      const types = {'instruction': <FaBookOpen />,
+                    'question': <FaQuestion />,
+                    'poll': <FaFolderPlus />,
+                    'video': <FaVideo />,
+                    'exercise': <FaRunning />,
+                    'reflection': <FaLightbulb />,
+                    'information': <FaInfo />};
 
       // In case the unit could not be found navigate back
       // to /module
@@ -99,7 +93,7 @@ class Module extends Component {
 
         // Get subunit after current subunit
         var next_subunit = subunits.filter((value, index) => {
-          return index == current_index + 1;
+          return index === current_index + 1;
         });
 
         // Get subunit before current subunit
@@ -123,7 +117,7 @@ class Module extends Component {
           // I need to get the units for each subunit
           const units = {};
           subunits.map(function(unit) {
-            units[unit.node.frontmatter.unit] = unit.node.frontmatter.unitTitle;
+            return units[unit.node.frontmatter.unit] = unit.node.frontmatter.unitTitle;
           });
 
           // Get li of subunits
@@ -157,7 +151,7 @@ class Module extends Component {
               
               subunitLi.push(
                 <li key={unitSorted[unit].frontmatter.title}>
-                  <img alt={unitSorted[unit].type} src={type}></img>
+                  {type}
                   <Link key={unit} 
                         onClick={this.updateMainContent}
                         to={`/module?id=` + parsedURL.id + 
@@ -381,7 +375,9 @@ const renderAst = new rehypeReact({
   components: { 
     "video": Video,
     "audio": Audio,
-    "quiz": Quiz,
+    "singlechoice": SingleChoice,
+    "multiplechoice": MultipleChoice,
+    "orderquestion": OrderQuestion
   },
 }).Compiler
 

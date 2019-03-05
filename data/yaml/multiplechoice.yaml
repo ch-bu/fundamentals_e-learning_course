@@ -1,0 +1,55 @@
+- question: Wie alt ist günter?
+  hint: Denk nochmal drüber nach
+  answers:
+    - answer: ja
+      correct: True
+    - answer: Nicht ganz
+      correct: False
+    - answer: Ein Meter und 80
+      correct: True
+
+- question: Welches dieser Tiere ist ein Säugetier?
+  hint: Denk nochmal drüber nach
+  answers:
+    - answer: Hund
+      correct: True
+    - answer: Spinne
+      correct: False
+    - answer: Maus
+      correct: True
+    - answer: Vogel
+      correct: False
+
+- question: Welches dieser Beispiele ist kein statistisches Modell?
+  hint: Überlege dir, welches dieser Kennwerte mehrere Daten nicht zusammen fasst. 
+  answers:
+    - answer: Der Mittelwert einer Verteilung
+      correct: False
+    - answer: Der Modus einer Verteilung
+      correct: False
+    - answer: Die Einzelwerte einer Verteilung
+      correct: True
+    - answer: Die Standardabweichung einer Verteilung
+      correct: False
+
+- question: Welche der folgenden Parameter würde den Fehler vermutlich substantiell reduzieren und wären es daher Wert, in das Modell aufgenommen zu werden?
+  hint: Denke nochmal genauer nach. Überlege dir, was ein schlechter Parameter wäre. Sind die vorliegenden Parameter schlecht? 
+  answers:
+    - answer: Die Größe des Vaters
+      correct: True
+    - answer: Der ethnische Hintergrund einer Person
+      correct: True
+    - answer: Unterernährung während der Kinder- und Jugendzeit
+      correct: True
+
+- question: Welches dieser Beispiele sind keine Charakteristika von beispielbasiertem Lernen? Zwei sind richtig
+  hint: Nicht ganz. Denke weiter drüber nach.
+  answers:
+    - answer: Die einzelnen Lösungsschritte eines Problems werden vorgezeigt
+      correct: False
+    - answer: Der Lernende löst das Problem eigenständig
+      correct: True
+    - answer: Lehrperson und Lernende*r stehen in einem Dialog
+      correct: True
+    - answer: Die Lernenden beobachten den Lehrenden
+      correct: False
