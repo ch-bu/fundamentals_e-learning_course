@@ -55,7 +55,7 @@
       correct: False
 
 - question: Welches dieser Lernziele sind schlecht formuliert? 3 Antworten.
-  hint: Tipp: Ein Lehrziel sollte eine Aktivität beschreiben, die ein*e Lernende*r nach einer Lerneinehit ausführen soll. Achte auf die Verben.
+  hint: Tipp. Ein Lehrziel sollte eine Aktivität beschreiben, die ein*e Lernende*r nach einer Lerneinehit ausführen soll. Achte auf die Verben.
   answers: 
     - answer: Die Lernenden verstehen nach der Lerneinheit, was aktives Lernen bedeutet.
       correct: True

@@ -10,7 +10,7 @@ type: instruction
 
 Ein letztes zentrales Prinzip, welches für jeden E-Learning Kurs gelten sollte, ist das Constructive Alignment ([Biggs, 1996](https://link.springer.com/article/10.1007/BF00138871)). Constructive Alignment besagt, dass in jeder Lerneinheit die Lernziele, die Lernmethoden und die Prüfung der Lernziele aufeinander abgestimmt sein sollten. 
 
-![](./ca.png)
+![](./ca.PNG)
 
 ## Ein Negativbeispiel
 
@@ -20,7 +20,7 @@ Hier siehst du ein Negativbeispiel für die Abstimmung zwischen dem Lernziel und
 
 Die Verben dieser Ziele sind: *evaluieren*, *verstehen*, *eigenständig denken*, *skeptisch sein*, *Daten interpretieren*, *kritisch denken*. An der Formulierung der Ziele siehst du bereits, dass die Lernziele taxonomisch hoch angeordnet sind. Die Verben sind nicht *erkennen*, *identifizieren* oder *benennen*. Als nächstes siehst du eine prototypsche Aufgabe des Kurses am Ende einer Lerneinheit:
 
-![](./question.png)
+![](./question.PNG)
 
 1. Retrieval Practice ist kein Lernziel, welches explizit benannt wurde.
 2. Die Aufgabe dient dem *erkennen* eines Konzeptes (hier: Retrieval Practice). Die vorgegebenen Verben werden mit einer solchen Aufgabe nicht angesprochen. 
