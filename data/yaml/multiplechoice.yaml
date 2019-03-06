@@ -53,3 +53,17 @@
       correct: True
     - answer: Die Lernenden beobachten den Lehrenden
       correct: False
+
+- question: Welches dieser Lernziele sind schlecht formuliert? 3 Antworten.
+  hint: Tipp: Ein Lehrziel sollte eine Aktivität beschreiben, die ein*e Lernende*r nach einer Lerneinehit ausführen soll. Achte auf die Verben.
+  answers: 
+    - answer: Die Lernenden verstehen nach der Lerneinheit, was aktives Lernen bedeutet.
+      correct: True
+    - answer: Die Lernenden können nach der Lerneinheit in eigenen Worten erklären, was aktives Lernen bedeutet.
+      correct: False
+    - answer: Die Lernenden wissen nach der Lerneinheit, was aktives Lernen bedeutet.
+      correct: True
+    - answer: Die Lernenden können nach der Lerneinheit aktives Lernen von bedeutsamen Lernen unterscheiden.
+      correct: False
+    - answer: Die Lernenden können nach der Lerneinheit nachvollziehen, worin der Unterschied zwischen aktivem Lernen und bedeutsamen Lernen besteht.
+      correct: True
