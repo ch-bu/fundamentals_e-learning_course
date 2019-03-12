@@ -8,7 +8,7 @@ subunit: 1
 type: instruction
 ---
 
-Diese fünf Prinzipien werden wir besprechen:
+In dieser Lerneinheit werden wir fünf zentrale Prinzipien besprechen. Jedes Prinzip ist gut erforscht und sollte in jeder E-Learning Lernumgebung angewandt werden. Diese Prinzipien sind:
 
 * Lernen sollte aktiv sein
 * Lernen sollte bedeutsam sein

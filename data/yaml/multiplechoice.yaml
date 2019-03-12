@@ -67,3 +67,31 @@
       correct: False
     - answer: Die Lernenden können nach der Lerneinheit nachvollziehen, worin der Unterschied zwischen aktivem Lernen und bedeutsamen Lernen besteht.
       correct: True
+
+- question: Warum sind nach unserer Definition Hörbücher kein E-Learning?
+  hint: Nicht ganz. Überlege weiter.
+  answers:
+    - answer: Weil Hörbücher nicht hauptsächlich entwickelt werden, um Lernvorgänge zu initiieren.
+      correct: True
+    - answer: Weil Hörbücher kein digitales Medium sind.
+      correct: False
+    - answer: Weil Hörbücher lediglich auditive Informationen übertragen.
+      correct: True
+    - answer: Weil Hörbücher ein ineffektives Mittel sind, um Lernen zu initiieren.
+      correct: False
+    - answer: Weil Hörbücher nicht in formalen Lehr- und Lernkontexten eingesetzt werden.
+      correct: False
+
+- question: Welches dieser Kriterien sind keine Elemente direkter Instruktion?
+  hint: Nicht ganz. 
+  answers:
+    - answer: Lernende entscheiden selbst, welche Aufgaben ihnen zur Erreichung der Lernziele dienen.
+      correct: True
+    - answer: Lernende erhalten verschiedene Übungen für das gleiche Lernziel, welches sich an Oberflächenmerkmalen unterscheiden.
+      correct: False
+    - answer: Lehrende geben Lernenden Aufgaben, aber halten keine Vorträge über den Lernstoff.
+      correct: True
+    - answer: Lehrende teilen die Inhalte von einfach nach schwer auf. 
+      correct: True
+    - answer: Lehrende geben den Lernenden Rückmeldungen über die Richtigkeit einer Aufgabe.
+      correct: False

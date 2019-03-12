@@ -20,9 +20,11 @@ Ein zentrales Element dieser Lernziele ist das Verb. Das Verb gibt an, welche T�
 * Die Lernenden sollen nach der Lerneinheit eine Webseite mit HTML und CSS **erstellen**
 * Die Lernenden sollen nach der Lerneinheit eine Gleichung mit einer unbekannten **auflösen** können
 
+## Kriterien der Verben
+
 Verben sollten folgende Kritieren erfüllen:
 
 * Sie sollten **beobachtbar** sein. *Verstehen* beispielsweise ist nicht beobachtbar.
-* Sie sollten so spezifisch wie möglich sein. "Sagen" ist weniger spezifisch wie "erklären".
+* Sie sollten so **spezifisch** wie möglich sein. "Sagen" ist weniger spezifisch wie "erklären".
 * Sie sollten innerhalb der Zeit und dem Umfang der Lerneinheit **erreichbar** sein. 
 

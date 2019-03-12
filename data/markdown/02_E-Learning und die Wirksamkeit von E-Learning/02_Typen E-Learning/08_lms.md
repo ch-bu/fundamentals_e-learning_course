@@ -30,7 +30,7 @@ Gebräuchlich sind LMS in größeren Institutionen (z.B. Schulen, Universitäten
 
 Der Marktumfang dieser Systeme ist beträchtlich. Blackboard zum Beispiel wird in ~ 1100 Instituten mit über 6 Millionen Nutzer angewandt ([EdTech, Oktober 2018](http://edutechnica.com/2018/10/06/6th-annual-lms-data-update/)). Das Marktvolumen von LMS ist in den letzten 9 Jahren zudem beträchtlich gestiegen. Im Jahr 2018 betrag der Marktwert von LMs weltweit 7.8 Milliarden US-Dollar, ein Anstieg von ~ 5 Milliarden über die letzten fünf Jahre (siehe [Statista](https://de.statista.com/statistik/daten/studie/428514/umfrage/marktvolumen-von-e-learning-lernplattformen-weltweit/)).
 
-# Weiterführende Links
+## Weiterführende Links
 
 * http://edutechnica.com/2018/10/06/6th-annual-lms-data-update/
 * https://de.wikipedia.org/wiki/Lernplattform

@@ -51,3 +51,56 @@
     - answer: Aktives Lernen findet statt, wenn sich Lernende aktiv vornehmen, den Lernstoff geistig zu verarbeiten
       hint: Trickfrage. Nein. Die Absicht ist nicht entscheidend, sondern ob Lernende zu einem bestimmten Zeitpunkt mit dem Lernstoff geistig aktiv beschäftigt sind.
       correct: False
+- question: Ist ein Hörgerät ein digitales Medium?
+  answers:
+    - answer: Ja
+      correct: True
+      hint: Richtig. Hörgeräte haben meist einen Chip und verarbeiten von außen kommende Signale, in diese für den Hörer verstärkt werden.
+    - answer: Nein
+      correct: False
+      hint: Nicht ganz. Versuche es erneut.
+    - answer: Unter Umständen
+      correct: False
+      hint: Nicht ganz. Zwar gibt es analoge Hörgeräte, allerdings sind alle modernen Hörgeräte digital und daher auch als digitales Medium zu betrachten.
+- question: Sind digitale Medien in der Regel schädlich für das Lernen?
+  answers:
+    - answer: Ja, digitale Medien lenken beim Lernen ab. Zwar lassen sich gute Lernumgebungen damit erstellen, aber durch die Möglichkeit, schnell auf andere Funktionen zu wechseln, sind Lernende abgelenkt.
+      correct: False
+      hint: Nein. Ob ein digitales Gerät lernförderlich ist, hängt sehr stark von der Nutzung ab. Zwar finden sich viele Studien, die negative Einflüsse auf das Lernen finden, allerdings spielen auch Lernenmerkmale wie die Fähigkeit zur Selbstregulation eine Rolle.
+    - answer: Das kann man so nicht sagen. Es gibt für jedes digitale Geräte sowohl Vorteile als auch Nachteile.
+      correct: True
+      hint: Richtig. Beispielsweise kann man behaupten, dass sich die Dinge besser einprägt, wenn man in einer Vorlesung per Hand alles mitschreibt, allerdings hat der Laptop den Vorteil, dass das Geschriebene schnell gesucht und gefunden werden kann. Ähnlich verhält es sich mit den anderen Geräten. Der Kontext und der Inhalt des Produktes entscheidet, ob ein Produkt lernförderlich ist.
+    - answer: Ganz im Gegenteil. Digitale Medien fördern das Lernen, da die heutige Generation Digital Natives sind und produktiv mit digitalen Medien umgehen können.
+      correct: False
+      hint: Das ist so nicht haltbar. Die Idee der Digital Natives ist mittlerweile überholt. Nur weil Menschen mit digitalen Medien aufwachsen, sind sie nicht per se besser im Umgang. Ob ein digitales Gerät lernförderlich ist, hängt sehr stark von der Nutzung ab. Zwar finden sich viele Studien, die negative Einflüsse auf das Lernen finden, allerdings spielen auch Lernenmerkmale wie die Fähigkeit zur Selbstregulation eine Rolle.
+- question: Digital Natives gibt es
+  answers:
+    - answer: Stimmt.
+      correct: False
+      hint: Nein, die Befundlage spricht eindeutig dagegen. Die Generation der Digital Natives ist nicht besonders im Umgang mit digitalen Geräten.
+    - answers: Stimmt nicht.
+      correct: True
+      hint: Korrekt. Es gibt wenige Befunde für die Behauptungen von Prensky.
+    - answers: Ein wenig.
+      correct: False
+      hint: Nein. Tatsächlich findet man wenige Befunde, die für die Ideen von Prensky sprechen.
+- question: Welches dieser Definitionen entspricht am ehesten der direkten Instruktion?
+  - answer: Bei der direkten Instruktion lernen Lernende passiv, indem sie zuhören und müssen den Lernstoff eigenständig erlernen.
+    correct: False
+    hint: Das ist ein typischer Trugschluss. Direkte Instruktion heißt nicht, das Lernende passiv lernen. Vielmehr umfasst direkte Instruktion ebenso konkrete Aufgaben für Lernende, Feedback und Übungsphasen, um den Stoff zu festigen.
+  - answer: Direkte Instruktion umfasst die Instruktion, das Stellen von Aufgaben, das Geben von Feedback und die Bereitstellung von Übungsmöglichkeiten zur Festigung des Lernstoffs.
+    correct: True
+    hint: Richtig. Bei der direkten Instruktion werden Lernende zwar von einer Lehrkraft angeleitet, sie erhalten aber zusätzlich Feedback und Übungen.
+  - answer: Direkte Instruktion umfasst die Instruktion des Lernstoffs, sowie Übungsaufgaben. Lernende haben die Aufgabe den Lernstoff eigenständig zu erlernen.
+    correct: False
+    hint: Nicht ganz. Der erste Teil stimmt. Lernende werden instruiert, sie erhalten auch Übungsaufgaben. Direkte Instruktion ist aber noch weiter strukturiert, indem die Lernenden auch Feedback erhalten. 
+- question: Ist direkte Instruktion effektiv für die Aneignung konzeptuellen Wissens?
+  - answer: Gar nicht gut, da Lernende keine Kontrolle über ihr eigenes Lernen haben.
+    correct: False
+    hint: Das stimmt in der Tat nicht. Überlege dir, ob nicht auch das Gegenteil stimmen könnte?
+  - answer: Äußerst effektiv tatsächlich. Direkte Instruktion ist eines der effektivsten IDMs, vor allem für Novizen.
+    correct: True
+    hint: Richtig. Die direkte Instruktion hat eine starke empirische Basis und ist äußerst wirksam.
+  - answer: Nicht sonderlich. Es wird lediglich Auswendiglernen gelernt. 
+    hint: Das stimmt so nicht. Tatsächlich ist die direkte Instruktion äußerst effektiv.
+    correct: False

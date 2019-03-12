@@ -4,7 +4,7 @@ unitTitle: Active Learning
 title: Schlechtes Beispiel aktiven Lernen
 module: 3
 unit: 1
-subunit: 6
+subunit: 7
 type: instruction
 ---
 
@@ -20,10 +20,10 @@ Die Frage regt aus mehreren Gründen nicht aktives Lernen an:
 
 Schauen wir uns nochmal unsere Definition von aktivem Lernen an:
 
-> Aktives Lernen findet immer dann statt, wenn Lernende Anstrengung aufwenden, den Lernstoff mit ihrem bestehendem Wissen zu verbinden.
+> Aktives Lernen findet immer dann statt, wenn Lernende Anstrengung aufwenden, den Lernstoff in ihrem Arbeitsgedächtnis zu verarbeiten und mit ihrem Vorwissen zu verbinden.
 
 Folgende Bedingungen sind bei dieser Frage nicht erfüllt:
 
 * Anstrengung: Nein, da Lernende durch Trial-und-Error die Frage beantworten können und sich daher nicht geistig tief mit dem Lernstoff beschäftigen
 * Lernstoff: Nur teils, da nur schwammig in dem Kurs definiert ist, was der Lernstoff ist. Die Lernenden lernen sozusagen in die Leere.
-* Bestehendes Wissen: Nein, die Lernenden müssen nur rekapitulieren, was sie vor ein paar Minuten gelesen haben.
+* Vorwissen: Nein, die Lernenden müssen nur rekapitulieren, was sie vor ein paar Minuten gelesen haben.

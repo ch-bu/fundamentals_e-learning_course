@@ -27,5 +27,5 @@ Die Verben dieser Ziele sind: *evaluieren*, *verstehen*, *eigenständig denken*,
 
 Die Folge ist, dass es einen Mismatch zwischen den vorgegebenen Lernziele und der Prüfung der Lernziele gibt. Constructive Alignment ist daher nicht gegeben. 
 
-![](./mismatch.png)
+![](./mismatch.PNG)
 

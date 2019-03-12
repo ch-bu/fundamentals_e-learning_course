@@ -9,7 +9,7 @@ type: instruction
 ---
 
 
-## Müller und Oppenheimeer (2014)
+## Müller und Oppenheimer (2014)
 
 Mittlerweile gibt es eine Reihe an Studien, die untersucht haben, ob das Schreiben auf Papier hinsichtlich der Behaltensleistung effektiver ist als das Schreiben auf digitalen Medien. Der zentralste Artikel kommt von [Müller und Opppenheimer (2014)](https://journals.sagepub.com/doi/abs/10.1177/0956797614524581). Müller und Oppenheimer untersuchten 67 Studierende. Alle Studierende sollten sich fünf TED-Talks mit einer Länge von ~ 15 Minuten ansehen. Anschließend beantworteten die Probanden Faktenfragen und konzeptuelle Fragen. Die eine Bedingung schrieb die Texte auf Papier, die andere auf Laptops.  Die Studierenden unterschieden sich sich in den Faktenfragen, allerdings deutlich in den konzeptuellen Fragen: 
 

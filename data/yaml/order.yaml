@@ -19,3 +19,8 @@
     - answer: Miranda liest den Text, welcher erklärt, was natürliche Selektion ist.
     - answer: Miranda erstellt eine Concept Map zum Thema evolutionäre Psychologie.
     - answer: Miranda redet mit Freunden darüber wie schlecht der Dozent die Inhalte während der Vorlesung erklärt hat.
+- question: Ordne folgende Gegenargumente nach Clark. Das ähnlichste Argument steht ganz oben.
+  answers:
+    - answer: Die Frage ist falsch gestellt, es ist nicht das Medium, welches darüber entscheidet, wie gut ein Lernprodukt ist, sondern ob das Produkt didaktisch gut an den Kontext der Lernsituation angepasst ist. 
+    - answer: Nein, Sie verwechseln Didaktik mit Medien. Das Medium ist nicht entscheident, sondern die didaktische Umsetzung. Und es hat sich gezeigt, dass E-Learnings didaktisch besser gestaltet sind. Daher ist E-Learning besser als Präsenzlehre.
+    - answer: Das stimmt nicht, E-Learning ist zwar besser, da es multimedialer ist als herkömmliche Präsenzlehre, allerdings sind die Effekte nicht riesig.

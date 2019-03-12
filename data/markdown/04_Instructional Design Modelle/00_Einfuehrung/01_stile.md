@@ -1,14 +1,14 @@
 ---
-moduleTitle: Zentrale didaktische Prinzipien
-unitTitle: Instructional Design Models
-title: Lehrstile
+moduleTitle: Instructional Design Models
+unitTitle: Einführung
+title: Lehrsituationen
 module: 4
 unit: 0
 subunit: 1
 type: instruction
 ---
 
-Hier siehst du ein paar Lehrstile, wie sie häufig anzutreffen sind:
+Hier siehst du ein paar Lehrsituationen, wie sie häufig anzutreffen sind:
 
 ## Die Vorlesung
 
@@ -18,7 +18,7 @@ Wenn du in einer Vorlesung sitzt, bist du meistens passiver Empfänger des Lerns
 
 ## Das Klassenzimmer
 
-![](./classroom2.jpg)
+![](./classroom2.png)
 
 So stellen sich die meisten Menschen Lehre vor. Eine Lehrkraft arbeitet mit 10 bis 30 Schüler\*innen. Ein Teil der Zeit gibt die Lehrkraft Instruktionen, an einem anderen Teil gibt die Lehrkraft den Lernenden Übungen. 
 

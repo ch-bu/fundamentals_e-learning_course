@@ -8,7 +8,7 @@ subunit: 2
 type: instruction
 ---
 
-Am besten, wir schauen uns zunächst einmal ein paar E-Learning Produkte an, bevor wir lernen, diese zu definieren und zu kategorisieren.  
+Schauen wir uns zunächst einmal ein paar E-Learning Produkte an, bevor wir lernen, diese zu definieren und zu kategorisieren.  
 
 ## edX - CS50: Introduction to Computer Science
 
