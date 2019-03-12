@@ -311,6 +311,7 @@ const Main = styled.div`
   h2 {
     font-size: 1.7rem;
     border: none;
+    font-weight: 700;
     margin-top: 40px;
   }
 

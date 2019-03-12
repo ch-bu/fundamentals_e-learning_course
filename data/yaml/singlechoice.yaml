@@ -85,22 +85,24 @@
       correct: False
       hint: Nein. Tatsächlich findet man wenige Befunde, die für die Ideen von Prensky sprechen.
 - question: Welches dieser Definitionen entspricht am ehesten der direkten Instruktion?
-  - answer: Bei der direkten Instruktion lernen Lernende passiv, indem sie zuhören und müssen den Lernstoff eigenständig erlernen.
-    correct: False
-    hint: Das ist ein typischer Trugschluss. Direkte Instruktion heißt nicht, das Lernende passiv lernen. Vielmehr umfasst direkte Instruktion ebenso konkrete Aufgaben für Lernende, Feedback und Übungsphasen, um den Stoff zu festigen.
-  - answer: Direkte Instruktion umfasst die Instruktion, das Stellen von Aufgaben, das Geben von Feedback und die Bereitstellung von Übungsmöglichkeiten zur Festigung des Lernstoffs.
-    correct: True
-    hint: Richtig. Bei der direkten Instruktion werden Lernende zwar von einer Lehrkraft angeleitet, sie erhalten aber zusätzlich Feedback und Übungen.
-  - answer: Direkte Instruktion umfasst die Instruktion des Lernstoffs, sowie Übungsaufgaben. Lernende haben die Aufgabe den Lernstoff eigenständig zu erlernen.
-    correct: False
-    hint: Nicht ganz. Der erste Teil stimmt. Lernende werden instruiert, sie erhalten auch Übungsaufgaben. Direkte Instruktion ist aber noch weiter strukturiert, indem die Lernenden auch Feedback erhalten. 
+  answers:
+    - answer: Bei der direkten Instruktion lernen Lernende passiv, indem sie zuhören und müssen den Lernstoff eigenständig erlernen.
+      correct: False
+      hint: Das ist ein typischer Trugschluss. Direkte Instruktion heißt nicht, das Lernende passiv lernen. Vielmehr umfasst direkte Instruktion ebenso konkrete Aufgaben für Lernende, Feedback und Übungsphasen, um den Stoff zu festigen.
+    - answer: Direkte Instruktion umfasst die Instruktion, das Stellen von Aufgaben, das Geben von Feedback und die Bereitstellung von Übungsmöglichkeiten zur Festigung des Lernstoffs.
+      correct: True
+      hint: Richtig. Bei der direkten Instruktion werden Lernende zwar von einer Lehrkraft angeleitet, sie erhalten aber zusätzlich Feedback und Übungen.
+    - answer: Direkte Instruktion umfasst die Instruktion des Lernstoffs, sowie Übungsaufgaben. Lernende haben die Aufgabe den Lernstoff eigenständig zu erlernen.
+      correct: False
+      hint: Nicht ganz. Der erste Teil stimmt. Lernende werden instruiert, sie erhalten auch Übungsaufgaben. Direkte Instruktion ist aber noch weiter strukturiert, indem die Lernenden auch Feedback erhalten. 
 - question: Ist direkte Instruktion effektiv für die Aneignung konzeptuellen Wissens?
-  - answer: Gar nicht gut, da Lernende keine Kontrolle über ihr eigenes Lernen haben.
-    correct: False
-    hint: Das stimmt in der Tat nicht. Überlege dir, ob nicht auch das Gegenteil stimmen könnte?
-  - answer: Äußerst effektiv tatsächlich. Direkte Instruktion ist eines der effektivsten IDMs, vor allem für Novizen.
-    correct: True
-    hint: Richtig. Die direkte Instruktion hat eine starke empirische Basis und ist äußerst wirksam.
-  - answer: Nicht sonderlich. Es wird lediglich Auswendiglernen gelernt. 
-    hint: Das stimmt so nicht. Tatsächlich ist die direkte Instruktion äußerst effektiv.
-    correct: False
+  answers:
+    - answer: Gar nicht gut, da Lernende keine Kontrolle über ihr eigenes Lernen haben.
+      correct: False
+      hint: Das stimmt in der Tat nicht. Überlege dir, ob nicht auch das Gegenteil stimmen könnte?
+    - answer: Äußerst effektiv tatsächlich. Direkte Instruktion ist eines der effektivsten IDMs, vor allem für Novizen.
+      correct: True
+      hint: Richtig. Die direkte Instruktion hat eine starke empirische Basis und ist äußerst wirksam.
+    - answer: Nicht sonderlich. Es wird lediglich Auswendiglernen gelernt. 
+      hint: Das stimmt so nicht. Tatsächlich ist die direkte Instruktion äußerst effektiv.
+      correct: False

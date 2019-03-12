@@ -1,7 +1,7 @@
 ---
 moduleTitle: Zentrale didaktische Prinzipien
 unitTitle: Lernzielorientierung
-title: Gutes Beispiel
+title: Schlechtes Beispiel
 module: 3
 unit: 4
 subunit: 5
