@@ -39,7 +39,7 @@ const Label = styled.label`
   margin-bottom: 12px;
   padding: 10px 10px 10px 50px;
   cursor: pointer;
-  font-size: 0.9rem;
+  font-size: 1rem;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -52,7 +52,7 @@ const Label = styled.label`
   }
 
   @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
   }
 `
 
@@ -175,8 +175,6 @@ class MultipleChoiceComponent extends React.Component {
         answer = <Answer answerCorrect={false}>{this.state.hint}</Answer>;
       }
     }
-
-    console.log(this.state.answerCorrect);
 
     return (
       <Quiz key={this.question.name}>
