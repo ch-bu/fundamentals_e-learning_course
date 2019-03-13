@@ -25,3 +25,8 @@ Die zentrale Metapher dieses Instruktional Design Modells ist die Verknüpfung b
 
 ![](connect.png)
 
+
+[Stockard et al. (2018)](https://journals.sagepub.com/doi/abs/10.3102/0034654317751919) fassen direkte Instruktion folgendermaßen zusammen:
+
+> Direct Instruction builds on the assumption that all students can learn with well-designed instruction. When a student does not learn, it does not mean that something is wrong with the student but, instead, that something is wrong with the instruction. Thus, the theory underlying DI lies in opposition to developmental approaches, constructivism, and theories of learning styles, which assume that students’ ability to learn depends on their developmental stage, their ability to construct or derive understandings, or their own unique approach to learning. Instead, DI assumes all students can learn new material when (a) they have mastered prerequisite knowledge and skills and (b) the instruction is unambiguous. In other words, DI assumes that students are inherently logical beings. Like the constructivist approach, DI assumes that students make inferences from examples that are presented to them. But, unlike constructivism, the theory underlying DI states that learning is most efficient when the examples are carefully chosen and designed. They must be as unambiguous as possible, sequenced to promote the correct inference for learning a new concept, and involve the fewest possible steps to induce learning.
+

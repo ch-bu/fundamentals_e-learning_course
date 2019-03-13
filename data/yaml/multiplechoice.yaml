@@ -95,3 +95,17 @@
       correct: True
     - answer: Lehrende geben den Lernenden Rückmeldungen über die Richtigkeit einer Aufgabe.
       correct: False
+
+- question: Welche dieser Aussagen zu Goal-Based Scenarios sind korrekt?
+  hint: Nicht ganz. Denk weiter drüber nach.
+  answers:
+    - answer: Die Lernziele bei der direkten Instruktion sind sowohl konzeptuell als auch prinzipienorientiert, während die Lernziele bei den Goal-Based Szenarios auf die Aneignung von Prozeduren abzielen.
+      correct: True
+    - answer: Die Lernziele bei der direkten Instruktion zielen auf die Aneignung von Prozeduren ab, während die Lernziele bei den Goal-Based Szenarios konzeptuelles und prinzipienorientiertes Wissen fördern sollen.
+      correct: False
+    - answer: Goal-Based Scenarios habe im Gegensatz zur direkten Instruktion keine vorgegebene Struktur.
+      correct: False
+    - answer: Goal-Based Scenarios gehen davon aus, dass jedes menschliches Handeln von Zielen geleitet ist.
+      correct: True
+    - answer: Lernen findet nur statt, wenn Lernende in realen Kontexten Lernen.
+      correct: False
