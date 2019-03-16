@@ -62,6 +62,7 @@
     - answer: Unter Umständen
       correct: False
       hint: Nicht ganz. Zwar gibt es analoge Hörgeräte, allerdings sind alle modernen Hörgeräte digital und daher auch als digitales Medium zu betrachten.
+
 - question: Sind digitale Medien in der Regel schädlich für das Lernen?
   answers:
     - answer: Ja, digitale Medien lenken beim Lernen ab. Zwar lassen sich gute Lernumgebungen damit erstellen, aber durch die Möglichkeit, schnell auf andere Funktionen zu wechseln, sind Lernende abgelenkt.
@@ -73,6 +74,7 @@
     - answer: Ganz im Gegenteil. Digitale Medien fördern das Lernen, da die heutige Generation Digital Natives sind und produktiv mit digitalen Medien umgehen können.
       correct: False
       hint: Das ist so nicht haltbar. Die Idee der Digital Natives ist mittlerweile überholt. Nur weil Menschen mit digitalen Medien aufwachsen, sind sie nicht per se besser im Umgang. Ob ein digitales Gerät lernförderlich ist, hängt sehr stark von der Nutzung ab. Zwar finden sich viele Studien, die negative Einflüsse auf das Lernen finden, allerdings spielen auch Lernenmerkmale wie die Fähigkeit zur Selbstregulation eine Rolle.
+
 - question: Digital Natives gibt es
   answers:
     - answer: Stimmt.
@@ -84,6 +86,7 @@
     - answers: Ein wenig.
       correct: False
       hint: Nein. Tatsächlich findet man wenige Befunde, die für die Ideen von Prensky sprechen.
+
 - question: Welches dieser Definitionen entspricht am ehesten der direkten Instruktion?
   answers:
     - answer: Bei der direkten Instruktion lernen Lernende passiv, indem sie zuhören und müssen den Lernstoff eigenständig erlernen.

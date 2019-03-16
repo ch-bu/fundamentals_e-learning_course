@@ -74,15 +74,15 @@ const Main = styled.div`
   }
   
   iframe {
-    width: 100%;
-    height: 50vh;
-    box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2);
-    padding: 20px 0;
+    /* width: 100%; */
+    /* box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2); */
+    /* padding: 20px 0; */
+    /* margin: 20px 0; */
   }
 
   video {
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
     margin-bottom: 2rem;
     box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2);
   }
@@ -141,6 +141,12 @@ const Main = styled.div`
 
   .gatsby-resp-image-image {
     box-shadow: 5px 5px 25px 0 rgba(46,61,73,.4);
+  }
+
+  .gatsby-resp-iframe-wrapper {
+    padding-bottom: 60.75%;
+    /* box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2); */
+    margin: 30px 0;
   }
 `;
 
