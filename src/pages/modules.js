@@ -6,7 +6,10 @@ import { graphql } from "gatsby"
 import Helmet from 'react-helmet';
 
 const Modules = styled.div`
-  background-color: ${props => props.theme.darkColor};
+  /* background-color: ${props => props.theme.darkColor}; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   padding-top: 50px;
   padding-left: 5vw;
   padding-right: 5vw;
@@ -16,7 +19,8 @@ const Modules = styled.div`
 
   h1 {
     margin-top: 0;
-    color: #fff;
+    color: #000;
+    border: none;
   }
 
   @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
@@ -25,6 +29,8 @@ const Modules = styled.div`
     padding-right: 20vw;
 
     h1 {
+      font-size: 3rem;
+      font-weight: 700;
       margin-top: 2rem;
     }
   }
@@ -43,12 +49,16 @@ const ModulesFlexbox = styled.div`
 `;
 
 const FlexElement = styled.div`
-  background-color: ${props => props.theme.darkColor};
+  /* background-color: ${props => props.theme.darkColor}; */
+  /* background-color: #fff; */
+  background-color: rgb(245,245,245);
+  opacity: .9;
   width: 90%;
   text-align: center;
   margin-bottom: 2rem;
   transition: background-color 0.3s;
-  border: 1px solid ${props => props.theme.primaryColorLight};
+  /* border: 1px solid ${props => props.theme.primaryColorLight}; */
+  box-shadow: 5px 10px 25px 0 rgba(46,61,73,.2);
   
   @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
     width: 100%;
@@ -57,7 +67,8 @@ const FlexElement = styled.div`
   }
 
   &:hover {
-    background-color: ${props => props.theme.darkColorLight};
+    /* background-color: ${props => props.theme.darkColorLight}; */
+    box-shadow: 2px 4px 8px 0 rgba(46,61,73,.2);
   }
 
   a {
@@ -71,7 +82,8 @@ const FlexElement = styled.div`
 const ModuleNumber = styled.div`
   align-self: center;
   font-size: 3rem;
-  color: ${props => props.theme.primaryColor};
+  /* color: ${props => props.theme.primaryColor}; */
+  color: #000;
   text-align: center;
   width: 29%;
 
@@ -83,6 +95,7 @@ const ModuleNumber = styled.div`
 const ModuleDescription = styled.div`
   width: 80%;
   color: #fff;
+  color: #000;
   text-align: left;
   padding: 20px;
   align-self: center;
