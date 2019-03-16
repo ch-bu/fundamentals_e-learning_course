@@ -8,6 +8,8 @@ subunit: 1
 type: instruction
 ---
 
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/htFKeaszCUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 E-Learning ist ein so breites Feld, dass es eine Vielzahl an Begriffen gibt, die E-Learning Produkte beschreiben. Viele der Begriffe überlappen sich und sind daher nicht ganz trennschaft. In diesem Teil wirst du die wichtigsten Begriffe kennen lernen. Genauer gehen wir auf folgende Typen von E-Learning Produkten ein:
 
 * Web Based Trainings (WBTs)

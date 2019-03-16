@@ -8,6 +8,8 @@ subunit: 60
 type: information
 ---
 
+<iframe width="1536" height="728" src="https://www.youtube.com/embed/C-0YG6KlF9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Während du dieses Modul bearbeitest, überlege dir fortwährend, ob du auf folgende Ziele hinarbeitest:
 
 * Du solltest den Begriff der Digital Natives und der Digital Immigrants *erklären* können, sowie die wissenschaftliche Befundlage hierzu *erklären* können. 

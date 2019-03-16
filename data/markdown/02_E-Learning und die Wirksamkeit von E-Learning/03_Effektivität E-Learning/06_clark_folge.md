@@ -8,7 +8,7 @@ subunit: 6
 type: instruction
 ---
 
-Wir werden uns fortan nicht mehr die Frage stellen, ob E-Learning Kurse lernförderlicher sind als Präsenzlehrformate. Das Argument von Clark führt uns zu einer anderen Frage: 
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/XraS3cb8sx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > Welche didaktischen Prinzipien sind bei E-Learning Kursen besonders lernwirksam? 
 

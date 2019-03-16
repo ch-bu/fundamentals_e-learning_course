@@ -8,13 +8,13 @@ subunit: 1
 type: instruction
 ---
 
+<iframe width="1536" height="728" src="https://www.youtube.com/embed/JRz2zzkgXqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Müller und Oppenheimer (2014)
 
 Mittlerweile gibt es eine Reihe an Studien, die untersucht haben, ob das Schreiben auf Papier hinsichtlich der Behaltensleistung effektiver ist als das Schreiben auf digitalen Medien. Der zentralste Artikel kommt von [Müller und Opppenheimer (2014)](https://journals.sagepub.com/doi/abs/10.1177/0956797614524581). Müller und Oppenheimer untersuchten 67 Studierende. Alle Studierende sollten sich fünf TED-Talks mit einer Länge von ~ 15 Minuten ansehen. Anschließend beantworteten die Probanden Faktenfragen und konzeptuelle Fragen. Die eine Bedingung schrieb die Texte auf Papier, die andere auf Laptops.  Die Studierenden unterschieden sich sich in den Faktenfragen, allerdings deutlich in den konzeptuellen Fragen: 
 
-> "However, on conceptual-application questions, laptop participants performed significantly worse (M = –0.178, SD = 0.900) than longhand participants (M = 0.162, SD = 1.07), F(1, 4.09) = 8.05, p = .046, ηp
-2 = .66 " ([Müller & Opppenheimer, 2014, S. 1161](https://journals.sagepub.com/doi/abs/10.1177/0956797614524581))
+> "However, on conceptual-application questions, laptop participants performed significantly worse (M = –0.178, SD = 0.900) than longhand participants (M = 0.162, SD = 1.07), F(1, 4.09) = 8.05, p = .046, ηp2 = .66 " ([Müller & Opppenheimer, 2014, S. 1161](https://journals.sagepub.com/doi/abs/10.1177/0956797614524581))
 
 Zudem schrieben Studierende, die auf Papier schrieben weniger auf als Studierende, die mit dem Laptop schrieben. Ein entscheidender Unterschied war allerdings, dass die Laptopschreibgruppe mehr wortwörtliche Zitate der Videos aufzeichneteten als die Papierschreibgruppe. Ein Schluss aus diesen Ergebnissen ist, dass die Studierende, welche mit Papier schrieben, die Inhalte *tiefer* verarbeiteten als Studierende, die auf Laptops schrieben. 
 

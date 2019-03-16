@@ -10,7 +10,6 @@ type: instruction
 
 Die Befundlage zum Unterschied zwischen Papier und Displays auf das Verständnis beim Lesen aus Texten ist nicht so eindeutig, wie man das gerne hätte. Es scheint aber einen leichten Vorteil für das Lesen auf Papier zu geben. 
 
-
 [Delgado, Vargas, Ackerman, und Salmerón (2018)](https://www.sciencedirect.com/science/article/pii/S1747938X18300101) fanden in ihrer Metaanalyse (*n* = 16) einen leichten positiven Effekt für das Lesen auf Papier. Drei Moderatoren konnten den Effekt noch besser erklären:
 
 * *Time frame*: Je länger der Text, desto besser ist das Lesen von Texten auf Papier.

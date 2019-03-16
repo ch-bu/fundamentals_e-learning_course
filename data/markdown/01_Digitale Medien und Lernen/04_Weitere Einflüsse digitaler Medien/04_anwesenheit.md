@@ -8,7 +8,7 @@ subunit: 4
 type: instruction
 ---
 
-Was aber, wenn wir gar nicht mit digitalen Medien während dem Lernen inteagieren, sondern diese nur beim Lernen neben uns liegen haben? Auch hier finden sich Studien, die zeigen, dass allein die Anwesenheit von digitalen Medien einen Einfluss auf das Lernen haben kann. 
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/5nCjAOmMXyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Ward et al. (2017)](https://www.journals.uchicago.edu/doi/abs/10.1086/691462) untersuchten genau das. Sie liesen 548 Probanden (!) Tests zur Kapazität ihres Arbeitsgedächtnisses durchführen. Die Probanden teilten sie vorher in drei Gruppen ein. Die eine Gruppe legte ihr Smartphone in einen anderen Raum, die zweite Gruppe legte ihr Smartphone in ihre Hosentasche und die dritte Gruppe legte ihr Smartphone auf den Tisch. Ward und Kollegen fanden einen kleinen Effekt (Eta-Quadrat = .014) für die Hypothese, dass das Smartphone auf dem Tisch schlechter für das Abschneiden bei dem Test als das Smartphone in der Hosentasche oder im anderen Raum ist. Die Autoren sprechen von einem *Brain Drain*, sprich das Smartphone saugt die Kazapität des Arbeitsgedächtnisses aus. Die kleinen Effekte sprechen allerdings nur für einen minimalen Brain Drain. 
 

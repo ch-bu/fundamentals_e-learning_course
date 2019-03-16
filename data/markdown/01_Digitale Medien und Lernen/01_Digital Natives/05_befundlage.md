@@ -8,13 +8,14 @@ subunit: 50
 type: instruction
 ---
 
+<iframe width="1536" height="728" src="https://www.youtube.com/embed/Gq8h8gpHDUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Die Behauptungen von Prensky lassen sich als Hypothesen formulieren, die wir testen können: 
+## Hypothesen 
 
 * Digital Natives haben eine höhere technische Begabung im Umgang mit digitalen Medien als Digital Immigrants und nutzen mehr digitale Medien als Digital Immigrants. 
 * Digital Natives profitieren stärker von entdeckenden Lernumgebungen als von herkömmlicher direkter Instruktion
 
-## Hypothese 1: Digital Natives haben eine höhere technische Begabung im Umgang mit digitalen Medien
+### Hypothese 1: Digital Natives haben eine höhere technische Begabung im Umgang mit digitalen Medien
 
 Diese Hypothese wurde von [Margaryan, Litteljohn und Vojt (2011)](https://www.sciencedirect.com/science/article/pii/S0360131510002563) untersucht. Anhand einer Fragebogenstudie untersuchten die Autoren, wie häufig und welche digitale Medien Universitätsstudierende verwenden. 160 Studierenden nahmen an der Befragung teil. Die Ergebnisse widersprachen der Idee der Digital Natives. Zunächst nutzten die Studierende nur einen kleinen Umfang an digitalen Medien in ihrem Alltag (zum Beispiel Wikipedia, Smartphones, und Musikplayer). Unterschiede in der Verwendung digitaler Medien zwischen den Studierenden zeigten sich nicht im Alter, sondern vielmehr im Fachbereich. Studierende, die technische Studiengänge besuchen verwenden in der Regel mehr digitale Medien als Studierende, die soziale Studiengänge besuchen. Insgesamt waren die Studierenden wesentlich konservativer als man nach Prensky annehmen könnte: 
 
@@ -24,7 +25,7 @@ Die Studierenden in der Studie von Margaryan, Littlejohn und Vojt (2011) sind ~ 
 
 Ähnliche Ergebnisse konnte auch [Wang, Hsu, Campell, Cost und Longhurst (2014)](https://link.springer.com/article/10.1007/s11423-014-9355-4) erzielen. Obwohl digitale Medien in den letzten Jahrzehnten zahlreicher geworden sind, nutzen Schülerinnen und Schüler diese nicht mehr als ihre Lehrer. Hauptsächlich verwenden Schülerinnen und Schüler Webbrowser und Word-Processors. Auf der anderen Seite verwenden nur wenige Schülerinnen und Schüler Videoschneideprogramme, programmieren Webseiten oder schreiben Blogs. 
 
-## Hypothese 2: Digital Natives profitieren stärker von entdeckenden Lernumgebungen als von herkömmlicher direkter Instruktion
+### Hypothese 2: Digital Natives profitieren stärker von entdeckenden Lernumgebungen als von herkömmlicher direkter Instruktion
 
 Die Befundlage zeigt, dass diese Hypothese zu einfach formuliert ist. Zunächst denken *Digital Natives* nicht fundamental anders Menschen vorheriger Generationen. Zwar haben sich die Lehrmethoden in den letzten Jahrzehnten geändert, nicht aber die Mechanismen, wie Menschen lernen ([siehe Geary, 2008](https://www.tandfonline.com/doi/abs/10.1080/00461520802392133)). Eine zentrale Erkenntnis der Lehr- und Lernforschung der letzten Jahrzehnte ist, dass Lernende nicht von rein enteckendem Lernen profitieren. Nehmen wir ein extremes Beispiel: Versuche einmal jungen Kindern das Schreiben durch eine entdeckende Lernumgebung beizubringen. Es wird [nicht funktionieren](https://journals.sagepub.com/doi/full/10.1177/1529100618772272). Wir Menschen haben tausende Jahre benötigt, um zu einer Schriftsprache zu gelangen. Wie sollte eine 4-Jährige selbstständig ein solch elaboriertes Schriftsprachensystem erlernen? 
 

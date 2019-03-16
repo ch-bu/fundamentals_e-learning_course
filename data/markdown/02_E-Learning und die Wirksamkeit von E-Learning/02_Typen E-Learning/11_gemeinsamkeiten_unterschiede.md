@@ -8,7 +8,7 @@ subunit: 11
 type: instruction
 ---
 
-Um ein wenig Licht unter die verschiedenen Typen zu bekommen, ist es ratsam, wenn wir uns die Gemeinsamkeiten und Unterschiede einmal vor Augen führen. 
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/Uo6tFZ-KOpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 |                             | Freier Zugang | Lernumgebung | Ressource | Webanwendung | Synchrone Kommunikatkon |

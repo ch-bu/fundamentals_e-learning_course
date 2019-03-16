@@ -8,7 +8,9 @@ subunit: 4
 type: information
 ---
 
-Während du dieses Modul bearbeitest, überlege dir fortwährend, ob du auf folgende Ziele hinarbeitest:
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/eM3NwDCNS6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Hier nochmal die Ziele einzeln aufgelistet:
 
 * Du solltest nach dieser Lerneinheit den Begriff E-Learning *definieren* können.
 * Du solltest nach dieser Lerneinheit alle E-Learning Typen *benennen* können. 
