@@ -109,3 +109,54 @@
       correct: True
     - answer: Lernen findet nur statt, wenn Lernende in realen Kontexten Lernen.
       correct: False
+
+- question: Welche dieser Beispiele sind nach dem Contruction-Integration Modells gute Beschreibungen des Unterschieds zwischen Tablet und Papier beim Lesen von Texten?
+  answers:
+    - answer: Beim Lesen auf einem Tablet sind Lernende eher abgelenkt und bauen oberflächlichere Textbasen auf als wenn sie auf dem Papier lesen
+      correct: True
+    - answer: Der Surface Code ändert sich abhängig vom Medium. Beim Tablet wird der Surface Code oberflächlicher repräsentiert.
+      correct: False
+    - answer: Beim Lesen auf dem Tablet ist das Situationsmodell komplexer, da anhand der Zoom-Funktion die Textbasen detaillierter verarbeitet werden können.
+      correct: False
+    - answer: Solange Menschen mit der gleichen Konzentration lesen, sollte es keinen Unterschied machen, ob jemand auf einem Tablet oder auf Papier liest. Sowohl die Textbasis als auch das Situationsmodell wäre identisch.
+      correct: True
+
+- question: Kreuze alle E-Learning Typen an, die für dieses E-Learning Produkt gelten
+  hint: Das stimmt leider noch nicht. Versuche es weiter.
+  answers:
+    - answer: Learning Management System
+      correct: False
+    - answer: Open Courseware
+      correct: False
+    - answer: Blended Learning
+      correct: False
+    - answer: Intelligent Tutoring System
+      correct: False
+    - answer: Massive Open Online Course
+      correct: False
+    - answer: Web Based Training
+      correct: True
+    - answer: Webinar
+      correct: False
+    - answer: Open Educational Resource
+      correct: False
+
+- question: Du möchtest für dein Tutorat einen E-Learning Kurs erstellen. Welches der folgenden E-Learning Typen könntest du dafür verwenden?
+  hint: Das stimmt leider noch nicht. Versuche es weiter.
+  answers:
+    - answer: Learning Management System
+      correct: True
+    - answer: Open Courseware
+      correct: False
+    - answer: Blended Learning
+      correct: True
+    - answer: Intelligent Tutoring System
+      correct: False
+    - answer: Massive Open Online Course
+      correct: False
+    - answer: Web Based Training
+      correct: True
+    - answer: Webinar
+      correct: True
+    - answer: Open Educational Resource
+      correct: True

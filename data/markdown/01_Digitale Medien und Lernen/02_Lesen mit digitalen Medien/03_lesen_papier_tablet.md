@@ -1,29 +1,18 @@
 ---
 moduleTitle: Digitale Medien und Lernen
 unitTitle: Lesen mit digitalen Medien
-title: Construction Integration Modell
+title: Wie lesen funktioniert
 module: 1
 unit: 2
 subunit: 3
 type: instruction
 ---
 
-Wenn wir uns die Frage stellen, ob es einen Unterschied macht, auf Papier oder einem Display zu lesen, sollten wir zunächst kurz anreißen, wie Menschen Texte lesen (siehe auch [Gernsbacher & Kaschak, 2013](https://books.google.de/books?hl=de&lr=&id=ktFMAgAAQBAJ&oi=fnd&pg=PP2&dq=gernsbacher+The+Oxford+Handbook+of+Cognitive+Psychology&ots=TdNpU3Og4U&sig=zIj6iXkL60MbbMiSBb8KhDZSjBc#v=onepage&q=gernsbacher%20The%20Oxford%20Handbook%20of%20Cognitive%20Psychology&f=false). 
+Wenn wir uns die Frage stellen, ob es einen Unterschied macht, auf Papier oder einem Display zu lesen, sollten wir zunächst kurz anreißen, wie Menschen Texte lesen (siehe auch [Gernsbacher & Kaschak, 2013](https://books.google.de/books?hl=de&lr=&id=ktFMAgAAQBAJ&oi=fnd&pg=PP2&dq=gernsbacher+The+Oxford+Handbook+of+Cognitive+Psychology&ots=TdNpU3Og4U&sig=zIj6iXkL60MbbMiSBb8KhDZSjBc#v=onepage&q=gernsbacher%20The%20Oxford%20Handbook%20of%20Cognitive%20Psychology&f=false)). 
 
-Wir werden dabei eine kognitive Brille aufsetzen, das bedeutet, wir versuchen uns vorzustellen, wie Menschen denken, wenn sie geistige Tätigkeiten ausführen. Diese Denken beschreiben wir anhand von Modellen. Ein einfaches kognitives Modell wäre das Dreikomponentenmodell des Gedächtnisses:
+## Construction-Integration Modell
 
-
-![](https://upload.wikimedia.org/wikipedia/commons/b/bf/Multistore_model.png)
-
-Wir glauben, dass es einen **sensorischen Puffer** gibt, der alle eingehenden Informationen kurz speichert. Zudem gibt es das **Kurzzeitgedächtnis** mit einer sehr begränzten Kapazität sowie einen unbegrenzten **Langzeitspeicher**. Wir interviewen nun einen Lernenden, der sich versucht Vokabeln anzueignen. Der Lernende berichtet uns, dass er versucht, sich die Wörter mit Hilfe von Eselsbrücken zu merken und damit auch sehr erfolgreich ist. Wenn du nun die gerade beschriebene Architektur des Gedächtnisses annimmst, wirst du zu zu dem Schluss kommen, dass der Lernende Informationen aus dem Langzeitgedächtnis nimmt und diese mit den neuen Informationen im Kurzzeitgedächtnis verbindet und so eine Verknüpfung in das Langzeitgedächtnis schafft. Deine Theorie des Gedächtnisses könnte aber eine ganz andere sein, dann würdest du zu anderen Erklärungen kommen. 
-
-
-Im nächsten Schritt lernen wir eine solche Theorie des Lesens kennen: Das Construction-Integration Modell von [Kintsch und van Dijk (1978)](https://psycnet.apa.org/record/1979-22783-001). 
-
-
-## Das Construction-Integration Modell
-
-Kintsch und van Dijk argumentieren, dass wir die Inhalte eines Textes auf drei verschiedenen Ebenen verarbeiten:
+Um Lesen beschreiben zu können, brauchen wir ein Modell, anhand dessen wir es beschreiben. Das bekannteste Modell ist das Construction-Integration Modell von Kintsch und van Dijk. In ihrem Modell verarbeiten wir Texte auf drei verschiedenen Ebenen:
 
 1. Surface code
 2. Textbase
@@ -52,9 +41,7 @@ Die letzte Repräsentation beim Lesen von Texten ist das Situationsmodell. Das S
 
 Das Situationmodell umfasst also nicht nur den Textinhalt, sondern auch alle Verknüpfungen aus unserem Vorwissen, dass wir hinzugenommen haben, um uns den Inhalt des Textes zu erschließen.
 
-## Was hat das Construction-Integration Modell mit Lesen auf einem Display oder auf Papier zu tun? 
 
-Das Construction-Integration Modell gibt uns ein theoretisches Fundament auf dessen wir überlegen können, weshalb das Lesen auf Papier oder auf einem Display unterschiedliche Auswirkungen hat. Ähnlich unserem Dreikomponentenmodell von gerade eben. 
 
 
 

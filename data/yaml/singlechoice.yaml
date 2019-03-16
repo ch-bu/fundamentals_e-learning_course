@@ -75,18 +75,6 @@
       correct: False
       hint: Das ist so nicht haltbar. Die Idee der Digital Natives ist mittlerweile überholt. Nur weil Menschen mit digitalen Medien aufwachsen, sind sie nicht per se besser im Umgang. Ob ein digitales Gerät lernförderlich ist, hängt sehr stark von der Nutzung ab. Zwar finden sich viele Studien, die negative Einflüsse auf das Lernen finden, allerdings spielen auch Lernenmerkmale wie die Fähigkeit zur Selbstregulation eine Rolle.
 
-- question: Digital Natives gibt es
-  answers:
-    - answer: Stimmt.
-      correct: False
-      hint: Nein, die Befundlage spricht eindeutig dagegen. Die Generation der Digital Natives ist nicht besonders im Umgang mit digitalen Geräten.
-    - answers: Stimmt nicht.
-      correct: True
-      hint: Korrekt. Es gibt wenige Befunde für die Behauptungen von Prensky.
-    - answers: Ein wenig.
-      correct: False
-      hint: Nein. Tatsächlich findet man wenige Befunde, die für die Ideen von Prensky sprechen.
-
 - question: Welches dieser Definitionen entspricht am ehesten der direkten Instruktion?
   answers:
     - answer: Bei der direkten Instruktion lernen Lernende passiv, indem sie zuhören und müssen den Lernstoff eigenständig erlernen.
@@ -109,3 +97,30 @@
     - answer: Nicht sonderlich. Es wird lediglich Auswendiglernen gelernt. 
       hint: Das stimmt so nicht. Tatsächlich ist die direkte Instruktion äußerst effektiv.
       correct: False
+
+- question: Digital Natives gibt es
+  answers:
+    - answer: Stimmt. Digital Natives gibt es.
+      hint: Nein, die Befundlage spricht eindeutig dagegen. Die Generation der Digital Natives ist nicht besonders im Umgang mit digitalen Geräten.
+      correct: False
+    - answer: Nein, digital Natives lassen sich empirisch nicht nachweisen.
+      hint: Korrekt. Es gibt wenige Befunde für die Behauptungen von Prensky.
+      correct: True
+    - answer: Schon ein wenig. Digital Natives denken und lernen in der Tat anders als Digital Immigrants.
+      hint: Nein. Tatsächlich findet man wenige Befunde, die für die Ideen von Prensky sprechen.
+      correct: False
+
+- question: Ilias ist ein ...
+  answers:
+    - answer: CMS
+      correct: False
+      hint: Nein. Das stimmt nicht.
+    - answer: CBT
+      correct: False
+      hint: Nein, stimmt leider nicht.
+    - answer: LMS
+      correct: True
+      hint: Nein, stimmt leider nicht.
+    - answer: WBT
+      correct: False
+      hint: Nein, das stimmt leider nicht.

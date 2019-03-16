@@ -154,6 +154,7 @@ class SingleChoiceComponent extends React.Component {
             return <li key={i} >
               <Label htmlFor={i + this.question.question}>{item.answer}
                 <Input type="radio" value={i} 
+                       key={item.answer}
                        id={i + this.question.question}
                        name={this.question.question}
                        onClick={this.updateChecked} />

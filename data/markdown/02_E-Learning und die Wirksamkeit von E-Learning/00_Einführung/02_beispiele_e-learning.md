@@ -22,9 +22,9 @@ Schauen wir uns zunächst einmal ein paar E-Learning Produkte an, bevor wir lern
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/SWxoJqTqo08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Seminar aus dem Bereich E-Learning - E-Learnings
+<!-- ## Seminar aus dem Bereich E-Learning - E-Learnings
 
-Diese Online-Kurse wurden im Seminar aus dem Bereich E-Learning im letzten Semester angefertigt. Die Kurse wurden innerhalb von 3 bis 4 Monaten entwickelt. Unter anderem wurden E-Learnings zum [Backen eines Kuchens](), zu dem [Erlernen von Geradengleichungen]() und zum [Bierbrauen]() entwickelt. 
+Diese Online-Kurse wurden im Seminar aus dem Bereich E-Learning im letzten Semester angefertigt. Die Kurse wurden innerhalb von 3 bis 4 Monaten entwickelt. Unter anderem wurden E-Learnings zum [Backen eines Kuchens](), zu dem [Erlernen von Geradengleichungen]() und zum [Bierbrauen]() entwickelt.  -->
 
 ## MIT OpenCourseware 
 

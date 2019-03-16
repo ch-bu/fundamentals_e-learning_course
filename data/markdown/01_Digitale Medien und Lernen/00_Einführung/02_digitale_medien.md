@@ -1,11 +1,11 @@
 ---
 moduleTitle: "Digitale Medien und Lernen"
 unitTitle: Einführung
-title: Was ist ein digitales Medium?
+title: Definition digitales Medium
 module: 1
 unit: 0
 subunit: 20
-type: instruction
+type: video
 ---
 
 <iframe width="1536" height="728" src="https://www.youtube.com/embed/_8PsKt4SC90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -14,5 +14,5 @@ type: instruction
 
 Es gibt aber auch Medien, die wir nicht als digitale Medien definieren würden. Beispielsweise zählt der [Overheadprojektor](https://de.wikipedia.org/wiki/Overheadprojektor) nicht zu den digitalen Medien, da er lediglich elektrisch, aber nicht digital funktioniert. Das bedeutet, ein Overheadprojektor speichert keine Daten in Form des Binärcodes.  -->
 
-<singlechoice question="Ist ein Hörgerät ein digitales Medium?"></singlechoice>
+
 
