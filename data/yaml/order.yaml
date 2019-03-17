@@ -24,3 +24,15 @@
     - answer: Die Frage ist falsch gestellt, es ist nicht das Medium, welches darüber entscheidet, wie gut ein Lernprodukt ist, sondern ob das Produkt didaktisch gut an den Kontext der Lernsituation angepasst ist. 
     - answer: Nein, Sie verwechseln Didaktik mit Medien. Das Medium ist nicht entscheident, sondern die didaktische Umsetzung. Und es hat sich gezeigt, dass E-Learnings didaktisch besser gestaltet sind. Daher ist E-Learning besser als Präsenzlehre.
     - answer: Das stimmt nicht, E-Learning ist zwar besser, da es multimedialer ist als herkömmliche Präsenzlehre, allerdings sind die Effekte nicht riesig.
+- question: Ordne folgende Schritte der Reihenfolge der direkten Instruktion zu.
+  hint: Das ist leider noch nicht korrekt. Versuche es weiter.
+  answers:
+    - answer: "Du zeigst den Lernenden ein Problem vor: Wie bestimmt man wie viel Wasser in ein Glas geht? Danach erklärst du, dass das Lösen von Gleichungen mit einer unbekannten notwendig ist, um dieses Problem zu lösen."
+    - answer: Du informierst die Lernenden, dass sie nach der Lerneinheit in der Lage sind, Gleichungen mit einer unbekannten selbstständig lösen zu können.
+    - answer: Du lässt die Lernenden in Paaren die Frage klären, was eine Unbekannte in der Mathematik ist. 
+    - answer: Du zeigst den Lernenden, wie man eine Gleichung mit einer unbekannten löst.
+    - answer: Du gibst den Lernenden eine Übung, um das Lösen von Gleichungen mit einer Unbekannten zu üben. 
+    - answer: Du gibst den Lernenden weiterführende Übungen, die der Festigung des Prinzips dienen.
+    - answer: Du gibst den Lernenden Rückmeldung, ob sie die Aufgaben gelöst haben und gibst ihnen Hilfestellungen, wenn sie Probleme hatten die Aufgaben zu lösen.
+    - answer: Du testest, ob die Lernenden das Prinzip gelernt haben.
+    - answer: Du variierst die Aufgaben so, dass sie in einem anderen Kontext angewandt werden. Beispielsweise wechselst du von der formalen Schreibweise zu einer Textaufgabe. 

@@ -1,11 +1,17 @@
 ---
 moduleTitle: Instructional Design Models
 unitTitle: Direkte Instruktion
-title: Beispiel Nine events of instruction
+title: Nine Events of Instruction am Beispiel
 module: 4
 unit: 1
 subunit: 4
-type: instruction
+type: question
 ---
 
-Hier ein Video zu Udacity Kurs einfügen. 
+Stell dir vor, du möchtest jemandem beibringen, eine Gleichung mit einer Unbekannten nach X aufzulösen:
+
+$
+3x + 4 = 7
+$
+
+<orderquestion question="Ordne folgende Schritte der Reihenfolge der direkten Instruktion zu."></orderquestion>

@@ -1,11 +1,11 @@
 ---
 moduleTitle: Instructional Design Models
 unitTitle: Direkte Instruktion
-title: Weiterführende Literatur
+title: Literatur
 module: 4
 unit: 1
 subunit: 9
-type: instruction
+type: information
 ---
 
 
