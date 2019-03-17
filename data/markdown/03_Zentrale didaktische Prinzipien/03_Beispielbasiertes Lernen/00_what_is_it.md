@@ -8,6 +8,8 @@ subunit: 0
 type: instruction
 ---
 
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/yjloWqFJasQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Das meiste, was wir wissen, haben wir von anderen Menschen gelernt. Als Kinder haben wir beobachtet, wie Erwachsene essen, putzen oder sich bewegen und diese Verhaltensweisen nachgeahmt. Wir können davon ausgehen, dass wir nicht darin unterstützt werden müssen, diese Verhaltensweisen von anderen Menschen zu lernen. Wir brauchen keine Schule, die uns beibringt, wie wir von anderen Menschen etwas lernen können ([Geary, 2008](https://www.tandfonline.com/doi/abs/10.1080/00461520802392133)). Dieses Prinzip wird auch als *The Borrowing and Reorganising Principle* bezeichnet ([Sweller, van Merrienboer, & Paas, 2019](https://link.springer.com/article/10.1007/s10648-019-09465-5)). 
 
 Beispielbasiertes Lernen funktioniert in der Regel so ([Wittwer & Renkl, 2010](https://link.springer.com/content/pdf/10.1007%2Fs10648-010-9136-5.pdf)):

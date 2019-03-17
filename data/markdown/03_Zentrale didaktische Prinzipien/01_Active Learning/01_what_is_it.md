@@ -8,6 +8,8 @@ subunit: 0
 type: instruction
 ---
 
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/-hRzkFWGq58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Aktives Lernen findet immer dann statt, wenn sich die Lernenden **geistig** mit dem Lernstoff beschäftigen. Aktives Lernen ist zudem ein Kontinuuum. Man lernt nicht entweder aktiv oder nicht aktiv. Vielmehr kann man aktiver und weniger aktiv lernen. 
 
 Sich geistig mit einem Thema beschäftigen bedeutet nicht, dass man nicht auch körperlich aktiv ist. Körperliche Aktivität ist allerdings für das Prinzip keine notwendige Bedingung. [Mayer (2004, S. 15)](https://psycnet.apa.org/record/2004-10043-002) hat diese Idee einmal in folgender Grafik zusammen gefasst: 

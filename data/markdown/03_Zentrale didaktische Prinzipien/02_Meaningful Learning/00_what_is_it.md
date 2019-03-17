@@ -8,6 +8,9 @@ subunit: 0
 type: instruction
 ---
 
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/rRaoAKO-Nck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Um zu verstehen, was bedeutsames Lernen (Meaningful Learning) ist, ist es hilfreich zu vergegenwertigen, was es **nicht** ist. [Mayer (2002)](https://www.tandfonline.com/doi/pdf/10.1207/s15430421tip4104_4) unterscheidet drei Arten des Lernens: 
 
 * Kein Lernen
