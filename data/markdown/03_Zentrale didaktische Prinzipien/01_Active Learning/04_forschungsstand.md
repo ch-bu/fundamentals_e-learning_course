@@ -24,7 +24,7 @@ Je aktiver beziehungsweise tiefer ich mich mit dem Lernstoff beschäftige, desto
 
 ## Wie wird man zu einem Experten?
 
-Ein anderer Forschungszweig hat sich die Frage gestellt, wie Menschen zu Experten in ihrem Fach werden. Aus dem Bauch heraus würden viele Menschen sagen, dass man sich mit dem Inhalten der Domaine über eine längere Zeit auseinandersetzen sollte. Dies genügt allerdings nicht. Viele Menschen, die jahrelang mit 10 Fingern schreiben, werden über die Jahre nicht besser. Sie stagnieren vielmehr. Was es benötigt, um sich zu verbessern ist, was [Ericsson (2006)](http://psych.colorado.edu/~ketels/psych4145/Ericsson_2006.pdf) als *Deliberate Practice* bezeichnet hat.  
+Ein anderer Forschungszweig hat sich die Frage gestellt, wie Menschen zu Experten in ihrem Fach werden. Aus dem Bauch heraus würden viele Menschen sagen, dass man sich mit dem Inhalten der Domäne über eine längere Zeit auseinandersetzen sollte. Dies genügt allerdings nicht. Viele Menschen, die jahrelang mit 10 Fingern schreiben, werden über die Jahre nicht besser. Sie stagnieren vielmehr. Was es benötigt, um sich zu verbessern ist, was [Ericsson (2006)](http://psych.colorado.edu/~ketels/psych4145/Ericsson_2006.pdf) als *Deliberate Practice* bezeichnet hat.  
 
 Deliberate Practice ist eine Übungsform, die sich durch folgende Charakteristika auszeichnet:
 
@@ -39,7 +39,7 @@ Was hat dies nun mit aktivem Lernen zu tun? Wir wissen aus der Forschung von Eri
 
 ## Lehren als Lernen
 
-Eine andere Möglichkeit, *aktives* Lernen zu untersuchen ist, Lernende zu bitten, das Gelernte selber an andere zu vermitteln. [Benware & Deci (1984)](https://journals.sagepub.com/doi/abs/10.3102/00028312021004755) liesen 43 Studierende einen Artikel über das Gehirn lesen und lernen. Den einen Studierenen wurde erzählt, dass sie so lernen sollten, dass sie auf einen schriftlichen Test vorbereitet sind. Den anderen Studierenden wurde erzählt, dass sie so lernen sollten, dass sie den Stoff einer andere Gruppe präsentieren sollten. Diejenigen Studierenden, die den Mindset hatten, dass sie den Inhalt des Textes lehren sollten, schnitten besser ab als die andere Gruppe, die lediglich für einen Test lernen sollten. Warum? Weil, die Lehrgruppe sich *aktiver* mit den Inhalten auseinander setzten. Die theoretische Begründung wäre, dass das Vortragen vor Menschen zusätzliche Anreize liefert, sich eingängiger mit den Inhalten dessen zu beschäftigen, was man vermittelt. 
+Eine andere Möglichkeit, *aktives* Lernen zu untersuchen ist, Lernende zu bitten, das Gelernte selber an andere zu vermitteln. [Benware und Deci (1984)](https://journals.sagepub.com/doi/abs/10.3102/00028312021004755) liesen 43 Studierende einen Artikel über das Gehirn lesen und lernen. Den einen Studierenen wurde erzählt, dass sie so lernen sollten, dass sie auf einen schriftlichen Test vorbereitet sind. Den anderen Studierenden wurde erzählt, dass sie so lernen sollten, dass sie den Stoff einer andere Gruppe präsentieren sollten. Diejenigen Studierenden, die den Mindset hatten, dass sie den Inhalt des Textes lehren sollten, schnitten besser ab als die andere Gruppe, die lediglich für einen Test lernen sollten. Warum? Weil, die Lehrgruppe sich *aktiver* mit den Inhalten auseinander setzten. Die theoretische Begründung wäre, dass das Vortragen vor Menschen zusätzliche Anreize liefert, sich eingängiger mit den Inhalten dessen zu beschäftigen, was man vermittelt. 
 
 ## Meta-Analyse von Freeman und Kollegen
 

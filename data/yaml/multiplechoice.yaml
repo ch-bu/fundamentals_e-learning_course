@@ -160,3 +160,17 @@
       correct: True
     - answer: Open Educational Resource
       correct: True
+
+- question: Stell dir vor, du möchtest lernen, Moderationen in einer Gruppe durchzuführen. Welches der folgenden Szenarien könnte man bei diesem Ziel als bedeutungsvolles Lernen bezeichnen? 
+  hint: Das stimmt noch nicht ganz. Versuche es weiter. 
+  answers:
+    - answer: Du übst Techniken, um die verschiedenen Ideen von Personen zu visualisieren.
+      correct: True
+    - answer: Du liest Bücher über die Geschichte der Moderation von Gruppen.
+      correct: False
+    - answer: Du übernimmst freiwillig Moderationen, um verschiedene Moderationssitationen kennen zu lernen
+      correct: True
+    - answer: Du beobachtest Moderatoren und schreibst dir auf, wie diese damit umgehen, wenn verschiedene Menschen unterschiedliche Meinungen haben.
+      correct: True
+    - answer: Du lernst anhand von Karteikarten die verschiedenen Namen von Moderationstechniken. 
+      correct: False

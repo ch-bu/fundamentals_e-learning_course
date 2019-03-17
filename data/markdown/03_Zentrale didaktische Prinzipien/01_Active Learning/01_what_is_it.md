@@ -14,7 +14,7 @@ Sich geistig mit einem Thema beschäftigen bedeutet nicht, dass man nicht auch k
 
 ![](./body_mind.PNG)
 
-Entscheident für erfolgreiches Lernen ist, dass wir geistig aktiv sind. Diese Idee klingt banal, sie ist aber historisch relativ neu. Mit dem Konstruktivismus (nicht Kognitivismus!) kam man zu der Ansicht, dass Lernen eben nicht nur das Übertragen von Informationen ist, sondern dass jeder Lernende den Lernstoff mit bereits bestehendem Vorwissen verbinden muss, um nachhaltig zu Lernen. Ganz ähnlich wie einem Puzzle müssen neue Teile (neuer Lernstoff) an bestehende Strukturen angedockt werden. Dieses Andocken muss allerdings *aktiv* geschehen, das Lernende selbst in der Verantwortung sind, neues Wissen mit bestehendem Wissen zu verbinden. Lehrkräfte können lediglich Anreize schaffen, dass diese Verbindungen funktionieren. 
+Entscheident für erfolgreiches Lernen ist, dass wir **kognitiv aktiv** sind. Diese Idee klingt banal, sie ist aber historisch relativ neu. Mit dem Konstruktivismus (nicht Kognitivismus!) kam man zu der Ansicht, dass Lernen eben nicht nur das Übertragen von Informationen ist, sondern dass jeder Lernende den Lernstoff mit bereits bestehendem Vorwissen verbinden muss, um nachhaltig zu Lernen. Ganz ähnlich wie einem Puzzle müssen neue Teile (neuer Lernstoff) an bestehende Strukturen angedockt werden. Dieses Andocken muss allerdings *aktiv* geschehen, das Lernende selbst in der Verantwortung sind, neues Wissen mit bestehendem Wissen zu verbinden. Lehrkräfte können lediglich Anreize schaffen, dass diese Verbindungen funktionieren. 
 
 > Aktives Lernen findet immer dann statt, wenn Lernende Anstrengung aufwenden, den Lernstoff in ihrem Arbeitsgedächtnis zu verarbeiten und mit ihrem Vorwissen zu verbinden.
 

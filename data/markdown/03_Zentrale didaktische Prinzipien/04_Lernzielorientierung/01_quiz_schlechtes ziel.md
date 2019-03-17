@@ -5,7 +5,7 @@ title: Quiz Lernziel
 module: 3
 unit: 4
 subunit: 1
-type: instruction
+type: question
 ---
 
 

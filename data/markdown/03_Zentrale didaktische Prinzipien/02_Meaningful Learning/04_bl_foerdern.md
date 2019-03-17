@@ -4,9 +4,16 @@ unitTitle: Meaningful Learning
 title: Bedeutsames Lernen fördern
 module: 3
 unit: 2
-subunit: 3
+subunit: 4
 type: instruction
 ---
+
+## Ziele der Nutzer kennen
+
+Vor allem müssen wir wissen, was die Ziele unserer Nutzer sind. Mayer sagt in seiner Definition, dass bedeutungsvolles Lernen dann stattfindet, wenn Lernende Dinge lernen, die ihnen helfen, ein Problem besser zu lösen. Damit wir den Lernenden helfen können, müssen wir daher die Ziele der Nutzer kennen. 
+
+Stell dir vor, du möchtest lernen, wie man eine visuell ansprechende PowerPoint baut. Dein Arbeitgeber verpflichtet dich ein E-Learning zu effektiven PowerPoints durchzuführen. Das Ziel dieser E-Learning Umgebung ist hingegen technischer Natur und umfasst das Einfügen von Bildern, SmartArts und die Gestaltung von Masterfolien. Diese Ziele mappen sich nicht mit deinen Zielen. Als Folge wirst du weniger aktiv Lernen und Lösungen für Probleme, die du schon gelöst hast oder die für dich nicht relevant erscheinen. Die Folge: Kein bedeutungsvolles Lernen.
+
 
 ## Variation einfügen
 
@@ -34,8 +41,6 @@ Die Prozedure hinter beiden Aufgaben ist die gleiche, die Oberflächenstruktur s
 
 
 ## Interleaving
-
-TODO: Video machen. 
 
 Eine weitere Möglichkeit, um bedeutsames Lernen zu fördern, ist die Verwendung von Interleaving ([Dunlosky, 2013](https://eric.ed.gov/?id=EJ1021069)). Stell dir vor, du möchtest eine Person trainieren im Basketball Freiwürfe zu üben. Die meisten Menschen würden so vorgehen: Der Spieler wirft ganz viele Freiwürfe vom Freiwurfpunkt. Das ist allerdings nicht unbedingt die effektivste Methode. Häufig ist Interleaving dieser *geblockten* Übungsart überlegen. Das würde so funktionieren: Anstatt, dass der Spieler immer vom Freiwurfpunkt wirft, wechselst du willkürlich die Distanz der Würfe. Mal von 3 Metern, mal von 2 Metern, oder mal von 5 Metern. Du änderst sozusagen den Kontext, um die Fähigkeit kontextunabhängig (hier die Distanz zum Korb) zu erlernen. Interleaving hat sich in mehreren Domänen, nicht nur im motorischen Bereich, als sehr erfolgreich erwiesen ([Dunlosky et al, 2013](https://journals.sagepub.com/doi/abs/10.1177/1529100612453266)). Beispielsweise könntest du in einer E-Learning Umgebung Aufgabentypen bei einem Test willkürlich wechseln. Hierdurch weiß der Lernende nicht, welche Prozedur notwendig ist, um eine Aufgabe zu lösen und muss verstehen, bei welchen Fragestellungen, welche Prozedur notwendig ist. 
 

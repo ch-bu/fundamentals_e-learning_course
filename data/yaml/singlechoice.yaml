@@ -124,3 +124,15 @@
     - answer: WBT
       correct: False
       hint: Nein, das stimmt leider nicht.
+
+- question: Welches dieser Lernaktivitäten wäre im Sinne des Constructive Alignment hierfür sinnvoll?
+  answers:
+    - answer: Die Nutzer erhalten mehrmals Planetenpaare (z.B. Erde vs. Venus) und müssen den Namen eines Planeten den Bildern zuordnen (z.B. Erde == Bild links)
+      correct: True
+      hint: Richtig. Dadurch wird Constructive Alignment hergestellt.
+    - answer: Die Nutzer erhalten einen instruktionalen Text über all Planeten des Sonnensystems und müssen danach anhand von MultipleChoice Fragen beantworten, welche Gesteine und Klimaverhältnisse auf den Planeten herrschen.
+      correct: False
+      hint: Nein, das fördert nicht Constructive Alignment. Das Ziel ist es, das Sonnensystem erklären zu können, nicht einzelne Planeten erklären zu können.
+    - answer: Die Nutzer erhalten ein instruktionales Video über die Sonne. In dem Video wird gezeigt, wie durch Kernschmelze Licht in der Sonne entsteht.
+      correct: False
+      hint: Nein, das fördert nicht Constructive Alignment. Das Ziel ist es, das Sonnensystem erklären zu können, nicht die Eigenschaften einzelner Planeten erklären zu können.
