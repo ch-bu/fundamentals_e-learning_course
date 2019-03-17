@@ -8,7 +8,7 @@ subunit: 0
 type: video
 ---
 
-<iframe width="1922" height="945" src="https://www.youtube.com/embed/AdMnnLAzttA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/ZCC3nPdg7sc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <!-- TODO: Hieraus ein Video machen. 
