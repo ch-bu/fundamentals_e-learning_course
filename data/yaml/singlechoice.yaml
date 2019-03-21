@@ -136,3 +136,27 @@
     - answer: Die Nutzer erhalten ein instruktionales Video über die Sonne. In dem Video wird gezeigt, wie durch Kernschmelze Licht in der Sonne entsteht.
       correct: False
       hint: Nein, das fördert nicht Constructive Alignment. Das Ziel ist es, das Sonnensystem erklären zu können, nicht die Eigenschaften einzelner Planeten erklären zu können.
+
+- question: Problembasiertes lernen ist ...
+  answers:
+    - answer: ein rein entdeckendes Instructional Design Modell.
+      hint: Nein, rein entdeckend würde bedeuten, dass es keine Unterstützung für die Lernenden gibt, die gibt es allerdings schon beim problembasierten Lernen. Zudem ist rein entdeckendes Lernen nicht effektiv.
+      correct: False
+    - answer: ein Instructional Design Modell, welches die Lernenden in die Verantwortung für ihr eigenes Lernen überlässt.
+      correct: True
+      hint: Genau, Lernende müssen sich die Inhalte selbst erschließen und erhalten Unterstützung von der Lehrkraft.
+    - answer: ein modular strukturiertes Instructional Design Modell
+      correct: False
+      hint: Nein, diese Aussage trifft eher auf die direkte Instruktion zu.
+
+- question: Was ist der Unterschied zwischen Problembasiertem Lernen und Projektbasiertem Lernen?
+  answers:
+    - answer: Im Unterschied zum problembasierten Lernen erstellen Lernende im projektbasierten Lernen Artefakte, die sie als Portfolio anderen Menschen zeigen können.
+      hint: Richtig. Das ist der Hauptunterschied.
+      correct: True
+    - answer: Im Unterschied zum problembasierten Lernen arbeiten Lernenden im projektbasierten Lernen nicht in Kleingruppen.
+      hint: Nicht unbedingt, projektbasiertes Lernen kann auch in Kleingruppen stattfinden.
+      correct: False
+    - answer: Im Unterschied zum problembasierten Lernen arbeiten Lernenden an authentischen Aufgaben.
+      correct: False
+      hint: Nein, beide IDMs versuchen authentische Aufgaben zu verwenden.

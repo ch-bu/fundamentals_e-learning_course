@@ -174,3 +174,15 @@
       correct: True
     - answer: Du lernst anhand von Karteikarten die verschiedenen Namen von Moderationstechniken. 
       correct: False
+
+- question: Welche dieser Aussagen trifft auf problembasiertes Lernen zu?
+  hint: Nein, versuche es weiter
+  answers:
+    - answer: Problembasiertes Lernen wurde entwickelt, um den Transfer in die Praxis zu ermöglichen
+      correct: True
+    - answer: Problembasiertes Lernen wurde entwickelt, da Vorlesungen ineffektive Methoden sind, um konzeptuelles Wissen zu lernen.
+      correct: False
+    - answer: Problembasiertes Lernen ist besonders für Lernende geeignet, die bereits ein paar Jahre eine Domäne gelernt haben.
+      correct: True
+    - answer: Problembasiertes Lernen kann dennoch Elemente der direkten Instruktion umfassen. 
+      correct: True
