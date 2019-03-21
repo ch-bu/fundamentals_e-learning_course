@@ -4,6 +4,7 @@ import styled from 'styled-components'
 import { StaticQuery, graphql } from "gatsby"
 import Button from '../button'
 import Confetti from 'react-dom-confetti';
+import {reactLocalStorage} from 'reactjs-localstorage';
 
 // fake data generator
 // const getItems = count =>
@@ -46,9 +47,7 @@ const getListStyle = isDraggingOver => ({
   padding: "10px 0",
   width: '100%',
   textAlign: 'left',
-  // border: '1px solid #ccc',
   marginBottom: '20px',
-  // boxShadow: '5px 5px 25px 0 rgba(46,61,73,.2)'
 });
 
 const Answer = styled.div`
@@ -59,6 +58,10 @@ const Answer = styled.div`
   border-radius: 5px;
   background-color: ${props => props.answerCorrect ? "#c7efc7" : "#ecbaba"};
   box-shadow: 5px 4px 25px 0 rgba(46,61,73,.4);
+
+  @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
+    font-size: 1.2rem;
+  }
 `;
 
 const DragDropContainer = styled.div`
@@ -102,10 +105,11 @@ class OrderComponent extends Component {
 
     this.state = {
       correctItems: answers.slice(0),
-      items: this.shuffleArray(answers),
+      items: reactLocalStorage.get(this.question.question) ? answers : this.shuffleArray(answers),
+      alreadyAnswered: reactLocalStorage.get(this.question.question) ? true : false,
       showConfetti: false,
       answerCorrect: null,
-      hint: "",
+      hint: reactLocalStorage.get(this.question.question) ? "Well, done!" : "",
       buttonClicked: false
     };
 
@@ -148,13 +152,17 @@ class OrderComponent extends Component {
     });
 
     if (answerCorrect) {
+      // Store correct answer in local storage
+      reactLocalStorage.set(this.question.question, this.question.hint);
+
       this.setState({
         showConfetti: true,
-        answerCorrect: true
+        answerCorrect: true,
+        alreadyAnswered: true
       }, () => {
         setTimeout(() => {
           this.setState({showConfetti: false})
-        }, 1000);
+        }, 500);
       });
     } else {
       this.setState({
@@ -169,8 +177,8 @@ class OrderComponent extends Component {
   render() {
 
     let answer = "";
-    if (this.state.buttonClicked) {
-      if (this.state.answerCorrect) {
+    if (this.state.buttonClicked | this.state.alreadyAnswered) {
+      if (this.state.answerCorrect | this.state.alreadyAnswered) {
         answer = <Answer answerCorrect={true}>{"Well done!"}</Answer>;
       } else {
         answer = <Answer answerCorrect={false}>{this.state.hint}</Answer>;
@@ -188,7 +196,10 @@ class OrderComponent extends Component {
                 style={getListStyle(snapshot.isDraggingOver)}
               >
                 {this.state.items.map((item, index) => (
-                  <Draggable  draggableId={item} index={index} key={index}>
+                  <Draggable draggableId={item} 
+                             index={index} 
+                             key={index}
+                             isDragDisabled={this.state.alreadyAnswered ? true : false}>
                     {(provided, snapshot) => (
                       <div
                         ref={provided.innerRef}

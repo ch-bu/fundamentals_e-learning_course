@@ -74,15 +74,15 @@ const Main = styled.div`
   }
   
   iframe {
-    /* width: 100%; */
+    width: 100%;
+    /* height: 50vh; */
     /* box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2); */
     /* padding: 20px 0; */
-    /* margin: 20px 0; */
   }
 
   video {
     width: 100%;
-    /* height: 100%; */
+    height: 100%;
     margin-bottom: 2rem;
     box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2);
   }
@@ -142,30 +142,21 @@ const Main = styled.div`
   .gatsby-resp-image-image {
     box-shadow: 5px 5px 25px 0 rgba(46,61,73,.4);
   }
-
-  .gatsby-resp-iframe-wrapper {
-    padding-bottom: 60.75%;
-    /* box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2); */
-    margin: 30px 0;
-  }
 `;
 
 
 const VideoMain = styled.div`
   position: relative;
   left: 0;
-  top: -41px;
+  top: -51px;
   grid-area: main;
   width: 100%;
-  padding-top: 20vh;
   height: 100%;
   overflow-y: hidden;
   background-color: #fff;
 
   @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
     top: 0px;
-    padding-top: 0;
-    /* width: ${props => props.showAsideLeft ? "75vw" : "100vw"}; */
   }
 
   video, iframe {
