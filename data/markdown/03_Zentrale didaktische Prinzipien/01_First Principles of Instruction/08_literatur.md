@@ -1,10 +1,10 @@
 ---
 moduleTitle: Zentrale didaktische Prinzipien
-unitTitle: Beispielbasiertes Lernen
+unitTitle: First Principles of Instruction
 title: Literatur
 module: 3
-unit: 3
-subunit: 8
+unit: 1
+subunit: 6
 type: information
 ---
 
