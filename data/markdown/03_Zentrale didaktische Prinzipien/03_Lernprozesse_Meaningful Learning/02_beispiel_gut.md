@@ -3,7 +3,7 @@ moduleTitle: Zentrale didaktische Prinzipien
 unitTitle: Meaningful Learning
 title: Gutes Beispiel
 module: 3
-unit: 2
+unit: 3
 subunit: 2
 type: instruction
 ---

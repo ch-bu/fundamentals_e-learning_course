@@ -42,7 +42,7 @@
     - answer: Unterernährung während der Kinder- und Jugendzeit
       correct: True
 
-- question: Welches dieser Beispiele sind keine Charakteristika von beispielbasiertem Lernen? Zwei sind richtig
+- question: Welches dieser Beispiele sind keine Charakteristika für das Demonstrieren von Wissen? Zwei sind richtig
   hint: Nicht ganz. Denke weiter drüber nach.
   answers:
     - answer: Die einzelnen Lösungsschritte eines Problems werden vorgezeigt
