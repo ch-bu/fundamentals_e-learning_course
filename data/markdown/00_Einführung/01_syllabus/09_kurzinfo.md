@@ -9,7 +9,7 @@ type: information
 ---
 
 
-* Modul: Modul 7 (Haupt- und Nebenfach)
+* Modul: Modul 7 (Hauptfach), Modul 5 (Nebenfach)
 * Studiengang: B.A. Bildungswissenschaft und Bildungsmanagement
 * Semester: Sommersemester 2019
 * Ort: HS 1228 (Kollegiengebäude I)

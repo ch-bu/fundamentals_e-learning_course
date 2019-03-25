@@ -13,7 +13,7 @@ In den Präsenzsitzungen vertiefen wir die Inhalte der Online-Module und der Lit
 
 * **Formatives Assessment des Dozenten (15 min)**: Zu Beginn der Sitzung besprechen wir gemeinsam die Inhalte der Online-Vorlesung anhand eines formativen Assessment (20 Minuten)
 * **Vorstellung eines E-Learning Produkts (10 min)**. Der Dozent stellt ein E-Learning Produkt vor, welches später analysiert wird.
-* **Gruppenarbeit Analyse E-Learning Produkte (60 min)**. Anschließend analysieren Sie in Gruppe verschiedene Ausschnitte digitaler Lernangebote.
+* **Gruppenarbeit Analyse E-Learning Produkte (50 min)**. Anschließend analysieren Sie in Gruppe verschiedene Ausschnitte digitaler Lernangebote.
 
 
 | Datum | Thema                                    |

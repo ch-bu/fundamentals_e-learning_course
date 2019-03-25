@@ -11,7 +11,7 @@ type: information
 ## Abgabe und Anmeldung der Studien- und Prüfungsleistungen
 
 * Sie finden den Kurs auf Ilias unter [dieser Adresse](https://ilias.uni-freiburg.de/goto.php?target=crs_1240094&client_id=unifreiburg). Der Kurs heißt *Grundlagen des E-Learning*. 
-* Die Zusammenfassungen der Literatur geben Sie auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_1240096&client_id=unifreiburg) ab. 
+* Die wöchentliche Analyse der E-Learning Produkte Sie auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_1240096&client_id=unifreiburg) ab. 
 * Um eine Prüfungsleistung erbringen zu können, ist eine [Anmeldung bei der GeKo, der Gemeinsamen Kommission der Philologischen, Philosophischen und Wirtschafts- und Verhaltenswissenschaftlichen Fakultät, erforderlich](http://www.geko.uni-freiburg.de/studiengaenge/bachelor/anmeldung). Die Anmeldung erfolgt zu Beginn der Vorlesungszeit, bitte beachten Sie die Bekanntgabe des Anmeldezeitraums durch die GeKo. 
 * Wenn Sie eine **Studienleistung** erbringen, müssen Sie sich nicht gesondert anmelden. Zur Mitte des Seminars werde ich eine Liste im Seminar verteilen, in die Sie sich eintragen können.
 * Sie können die für die einzelnen Sitzungen vorgesehene Literatur und Materialien von [Ilias](https://ilias.uni-freiburg.de/goto.php?target=fold_1240095&client_id=unifreiburg) herunterladen. Aufgrund des Urheberrechts dürfen Literatur und Materialien nicht an Dritte weitergegeben werden.
