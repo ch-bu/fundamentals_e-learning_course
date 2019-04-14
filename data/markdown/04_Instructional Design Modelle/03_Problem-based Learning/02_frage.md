@@ -8,4 +8,4 @@ subunit: 2
 type: question
 ---
 
-<singlechoice question="Problembasiertes lernen ist ..."></singlechoice>
+<singlechoice questionid="10"></singlechoice>

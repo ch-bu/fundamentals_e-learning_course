@@ -8,4 +8,4 @@ subunit: 3
 type: question
 ---
 
-<singlechoice question="Welches dieser Definitionen entspricht am ehesten der Idee des aktiven Lernens?"></singlechoice>
+<singlechoice questionid="3"></singlechoice>

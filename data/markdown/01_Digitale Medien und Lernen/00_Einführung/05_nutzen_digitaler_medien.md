@@ -8,6 +8,6 @@ subunit: 50
 type: question
 ---
 
-<singlechoice question="Sind digitale Medien in der Regel schädlich für das Lernen?"></singlechoice>
+<singlechoice questionid="2"></singlechoice>
 
 

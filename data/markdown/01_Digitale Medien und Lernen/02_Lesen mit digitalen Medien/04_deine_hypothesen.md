@@ -8,7 +8,7 @@ subunit: 4
 type: question
 ---
 
-<multiplechoice question="Welche dieser Beispiele sind nach dem Contruction-Integration Modells gute Beschreibungen des Unterschieds zwischen Tablet und Papier beim Lesen von Texten?"></multiplechoice>
+<multiplechoice questionid="3"></multiplechoice>
 
 <!-- Du setzt wir jetzt gleich zwei Brillen auf. Mit der einen Brille überlegst du dir anhand der [Cognitive Load Theory](https://www.learning-theories.com/cognitive-load-theory-of-multimedia-learning-sweller.html), weshalb Lesen auf einem Display zu einer schlechterem Textverständnis führt als Lesen auf Papier. Mit der anderen Brille überlegst du anhand des [Construction Integration Modells](https://portal.hogrefe.com/dorsch/construction-integration-model/), weshalb dieser Unterschied bestehen könnte. 
 

@@ -8,4 +8,4 @@ subunit: 30
 type: question
 ---
 
-<singlechoice question="Ist ein Hörgerät ein digitales Medium?"></singlechoice>
+<singlechoice questionid="1"></singlechoice>

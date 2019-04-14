@@ -10,4 +10,4 @@ type: question
 
 Aus dem Bauch heraus. Beantworte, ob du folgender Aussage zustimmst: 
 
-<singlechoice question="Digital Natives gibt es"></singlechoice>
+<singlechoice questionid="6"></singlechoice>

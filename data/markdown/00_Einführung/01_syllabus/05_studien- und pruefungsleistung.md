@@ -19,7 +19,7 @@ Das Seminar hat einen Arbeitsaufwand von 5 ECTS-Punkten. Dies entspricht einem A
 
 ## Prüfungsleistungen
 
-* **Klausur (86 h)**. In der letzten Sitzung schreiben Sie eine Klausur. In der Klausur werden 
+* **Klausur (86 h)**. In der letzten Sitzung schreiben Sie eine Klausur. Zwei Wochen vor der Klausur erhalten Sie eine E-Learning Umgebung, die Sie vor der Klausur analysieren. In der Klausur werden Fragen zu dieser E-Learning Umgebung gestellt.
 
 ## Bestehen des Seminars
 

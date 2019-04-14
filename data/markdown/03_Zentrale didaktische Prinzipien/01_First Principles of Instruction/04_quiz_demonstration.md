@@ -8,4 +8,4 @@ subunit: 3
 type: question
 ---
 
-<multiplechoice question="Welches dieser Beispiele sind keine Charakteristika für das Demonstrieren von Wissen? Zwei sind richtig"></multiplechoice>
+<multiplechoice questionid="1"></multiplechoice>

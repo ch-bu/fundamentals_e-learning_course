@@ -8,4 +8,4 @@ subunit: 2
 type: question
 ---
 
-<multiplechoice question="Welches dieser Kriterien sind keine Elemente direkter Instruktion?"></multiplechoice>
+<multiplechoice questionid="5"></multiplechoice>

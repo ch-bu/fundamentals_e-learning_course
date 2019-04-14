@@ -8,4 +8,4 @@ subunit: 6
 type: question
 ---
 
-<singlechoice question="Ist direkte Instruktion effektiv für die Aneignung konzeptuellen Wissens?"></singlechoice>
+<singlechoice questionid="5"></singlechoice>

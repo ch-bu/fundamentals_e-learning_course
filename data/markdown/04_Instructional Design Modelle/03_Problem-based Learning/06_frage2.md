@@ -8,4 +8,4 @@ subunit: 6
 type: instruction
 ---
 
-<multiplechoice question="Welche dieser Aussagen trifft auf problembasiertes Lernen zu?"></multiplechoice>
+<multiplechoice questionid="10"></multiplechoice>

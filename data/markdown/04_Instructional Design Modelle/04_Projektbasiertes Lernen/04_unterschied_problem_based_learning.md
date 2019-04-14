@@ -1,4 +1,4 @@
----
+<!-- ---
 moduleTitle: Instructional Design Models
 unitTitle: Projektbasiertes Lernen
 title: Beispiele
@@ -8,7 +8,7 @@ subunit: 4
 type: instruction
 ---
 
-<multiplechoice question="Was ist der Unterschied zwischen Problembasiertem Lernen und Projektbasiertem Lernen?"></multiplechoice>
+<multiplechoice question="Was ist der Unterschied zwischen Problembasiertem Lernen und Projektbasiertem Lernen?"></multiplechoice> -->
 
 
 

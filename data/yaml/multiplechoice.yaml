@@ -1,48 +1,5 @@
-- question: Wie alt ist günter?
-  hint: Denk nochmal drüber nach
-  answers:
-    - answer: ja
-      correct: True
-    - answer: Nicht ganz
-      correct: False
-    - answer: Ein Meter und 80
-      correct: True
-
-- question: Welches dieser Tiere ist ein Säugetier?
-  hint: Denk nochmal drüber nach
-  answers:
-    - answer: Hund
-      correct: True
-    - answer: Spinne
-      correct: False
-    - answer: Maus
-      correct: True
-    - answer: Vogel
-      correct: False
-
-- question: Welches dieser Beispiele ist kein statistisches Modell?
-  hint: Überlege dir, welches dieser Kennwerte mehrere Daten nicht zusammen fasst. 
-  answers:
-    - answer: Der Mittelwert einer Verteilung
-      correct: False
-    - answer: Der Modus einer Verteilung
-      correct: False
-    - answer: Die Einzelwerte einer Verteilung
-      correct: True
-    - answer: Die Standardabweichung einer Verteilung
-      correct: False
-
-- question: Welche der folgenden Parameter würde den Fehler vermutlich substantiell reduzieren und wären es daher Wert, in das Modell aufgenommen zu werden?
-  hint: Denke nochmal genauer nach. Überlege dir, was ein schlechter Parameter wäre. Sind die vorliegenden Parameter schlecht? 
-  answers:
-    - answer: Die Größe des Vaters
-      correct: True
-    - answer: Der ethnische Hintergrund einer Person
-      correct: True
-    - answer: Unterernährung während der Kinder- und Jugendzeit
-      correct: True
-
 - question: Welches dieser Beispiele sind keine Charakteristika für das Demonstrieren von Wissen? Zwei sind richtig
+  questionid: 1
   hint: Nicht ganz. Denke weiter drüber nach.
   answers:
     - answer: Die einzelnen Lösungsschritte eines Problems werden vorgezeigt
@@ -55,6 +12,7 @@
       correct: False
 
 - question: Welches dieser Lernziele sind schlecht formuliert? 3 Antworten.
+  questionid: 4
   hint: Tipp. Ein Lehrziel sollte eine Aktivität beschreiben, die ein*e Lernende*r nach einer Lerneinehit ausführen soll. Achte auf die Verben.
   answers: 
     - answer: Die Lernenden verstehen nach der Lerneinheit, was aktives Lernen bedeutet.
@@ -69,6 +27,7 @@
       correct: True
 
 - question: Warum sind nach unserer Definition Hörbücher kein E-Learning?
+  questionid: 2
   hint: Nicht ganz. Überlege weiter.
   answers:
     - answer: Weil Hörbücher nicht hauptsächlich entwickelt werden, um Lernvorgänge zu initiieren.
@@ -83,6 +42,7 @@
       correct: False
 
 - question: Welches dieser Kriterien sind keine Elemente direkter Instruktion?
+  questionid: 5
   hint: Nicht ganz. 
   answers:
     - answer: Lernende entscheiden selbst, welche Aufgaben ihnen zur Erreichung der Lernziele dienen.
@@ -97,6 +57,7 @@
       correct: False
 
 - question: Welche dieser Aussagen zu Goal-Based Scenarios sind korrekt?
+  questionid: 6
   hint: Nicht ganz. Denk weiter drüber nach.
   answers:
     - answer: Die Lernziele bei der direkten Instruktion sind sowohl konzeptuell als auch prinzipienorientiert, während die Lernziele bei den Goal-Based Szenarios auf die Aneignung von Prozeduren abzielen.
@@ -111,6 +72,7 @@
       correct: False
 
 - question: Welche dieser Beispiele sind nach dem Contruction-Integration Modells gute Beschreibungen des Unterschieds zwischen Tablet und Papier beim Lesen von Texten?
+  questionid: 3
   answers:
     - answer: Beim Lesen auf einem Tablet sind Lernende eher abgelenkt und bauen oberflächlichere Textbasen auf als wenn sie auf dem Papier lesen
       correct: True
@@ -122,6 +84,7 @@
       correct: True
 
 - question: Kreuze alle E-Learning Typen an, die für dieses E-Learning Produkt gelten
+  questionid: 7
   hint: Das stimmt leider noch nicht. Versuche es weiter.
   answers:
     - answer: Learning Management System
@@ -142,6 +105,7 @@
       correct: False
 
 - question: Du möchtest für dein Tutorat einen E-Learning Kurs erstellen. Welches der folgenden E-Learning Typen könntest du dafür verwenden?
+  questionid: 8
   hint: Das stimmt leider noch nicht. Versuche es weiter.
   answers:
     - answer: Learning Management System
@@ -161,7 +125,8 @@
     - answer: Open Educational Resource
       correct: True
 
-- question: Stell dir vor, du möchtest lernen, Moderationen in einer Gruppe durchzuführen. Welches der folgenden Szenarien könnte man bei diesem Ziel als bedeutungsvolles Lernen bezeichnen? 
+- question: Stell dir vor, du möchtest lernen, Moderationen in einer Gruppe durchzuführen. Welches der folgenden Szenarien könnte man bei diesem Ziel als bedeutungsvolles Lernen bezeichnen?
+  questionid: 9
   hint: Das stimmt noch nicht ganz. Versuche es weiter. 
   answers:
     - answer: Du übst Techniken, um die verschiedenen Ideen von Personen zu visualisieren.
@@ -176,6 +141,7 @@
       correct: False
 
 - question: Welche dieser Aussagen trifft auf problembasiertes Lernen zu?
+  questionid: 10
   hint: Nein, versuche es weiter
   answers:
     - answer: Problembasiertes Lernen wurde entwickelt, um den Transfer in die Praxis zu ermöglichen

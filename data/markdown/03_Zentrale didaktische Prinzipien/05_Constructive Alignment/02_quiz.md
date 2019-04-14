@@ -10,4 +10,4 @@ type: question
 
 Stell dir vor, du hast folgendes Ziel in deinem E-Learning Produkt: Du möchtest, dass die Nutzer nach der Lerneinheit den Aufbau unseres Sonnensystems erklären können. Du prüfst dieses Ziel am Ende anhand eines Tests, bei dem du das Sonnensystem visualisierst und die Nutzer sollen die Namen der Planeten eintragen. 
 
-<singlechoice question="Welches dieser Lernaktivitäten wäre im Sinne des Constructive Alignment hierfür sinnvoll?"></singlechoice>
+<singlechoice questionid="9"></singlechoice>

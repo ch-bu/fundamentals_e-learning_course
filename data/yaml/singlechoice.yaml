@@ -1,4 +1,5 @@
 - question: Sind digitale Medien in der Regel schädlich für Lernen?
+  questionid: 4
   answers:
     - answer: Ja, digitale Medien lenken beim Lernen ab. Zwar lassen sich gute Lernumgebungen damit erstellen, aber durch die Möglichkeit, schnell auf andere Funktionen zu wechseln, sind Lernende abgelenkt.
       correct: False
@@ -9,35 +10,8 @@
     - answer: Ganz im Gegenteil. Digitale Medien fördern das Lernen, da die heutige Generation Digital Natives sind und produktiv mit digitalen Medien umgehen können.
       correct: False
       hint: Das ist so nicht haltbar. Die Idee der Digital Natives ist mittlerweile überholt. Nur weil Menschen mit digitalen Medien aufwachsen, sind sie nicht per se besser im Umgang. Ob ein digitales Gerät lernförderlich ist, hängt sehr stark von der Nutzung ab. Zwar finden sich viele Studien, die negative Einflüsse auf das Lernen finden, allerdings spielen auch Lernenmerkmale wie die Fähigkeit zur Selbstregulation eine Rolle.
-- question: Wie groß ist der Fehler für Mareike? 
-  answers:
-    - answer: "-2"
-      correct: True
-      hint: Sehr gut. Der Fehler ist ERROR = DATA - MODEL. Also ERROR = 84 - 86 = -2
-    - answer: "2"
-      correct: False
-      hint: Nicht ganz. Erinnere dich daran das der Fehler ERROR = DATA - MODEL ist
-    - answer: "19"
-      correct: False
-      hint: Nicht ganz. Erinnere dich daran das der Fehler ERROR = DATA - MODEL ist
-    - answer: "-19"
-      correct: False
-      hint: Nicht ganz. Erinnere dich daran das der Fehler ERROR = DATA - MODEL ist
-    - answer: "4"
-      correct: False
-      hint: Nicht ganz. Erinnere dich daran das der Fehler ERROR = DATA - MODEL ist
-- question: Warum ist der Fehler beim erweiterten Modell kleiner als beim kompakten Modell? 
-  answers:
-    - answer: Da jeder weitere Parameter DATA besser erklären kann, unabhängig von der Größe des Einflusses.
-      hint: Sehr gut. Das ist richtig.
-      correct: True
-    - answer: Da das erweiterte Modell Parameter hat, die Fehler stärker reduzieren als beim kompakten Modell
-      hint: Nicht ganz. Es ist möglich, dass der Mittelwert beim kompakten Modell den Fehler bereits sehr klein hält und ein weiterer Parameter den Fehler nur minimal verkleinert.
-      correct: False
-    - answer: Da die Parameter im erweiterten Modell den Fehler substantiell reduzieren.
-      hint: Nein. Die Größe der Fehlerreduzierung ist irrelevant für die Frage. Entscheidend ist, warum der Fehler beim erweiterten Modell immer kleiner ist.
-      correct: False
 - question: Welches dieser Definitionen entspricht am ehesten der Idee des aktiven Lernens?
+  questionid: 3
   answers:
     - answer: Aktives Lernen findet statt, wenn sich Lernende aktiv mit Konzepten und Prinzipien auseinandersetzen.
       hint: Nicht ganz. Entscheidend ist, ob die Konzepte und Prinzipien Teil des Lernstoffes sind
@@ -52,6 +26,7 @@
       hint: Trickfrage. Nein. Die Absicht ist nicht entscheidend, sondern ob Lernende zu einem bestimmten Zeitpunkt mit dem Lernstoff geistig aktiv beschäftigt sind.
       correct: False
 - question: Ist ein Hörgerät ein digitales Medium?
+  questionid: 1
   answers:
     - answer: Ja
       correct: True
@@ -64,6 +39,7 @@
       hint: Nicht ganz. Zwar gibt es analoge Hörgeräte, allerdings sind alle modernen Hörgeräte digital und daher auch als digitales Medium zu betrachten.
 
 - question: Sind digitale Medien in der Regel schädlich für das Lernen?
+  questionid: 2
   answers:
     - answer: Ja, digitale Medien lenken beim Lernen ab. Zwar lassen sich gute Lernumgebungen damit erstellen, aber durch die Möglichkeit, schnell auf andere Funktionen zu wechseln, sind Lernende abgelenkt.
       correct: False
@@ -74,8 +50,8 @@
     - answer: Ganz im Gegenteil. Digitale Medien fördern das Lernen, da die heutige Generation Digital Natives sind und produktiv mit digitalen Medien umgehen können.
       correct: False
       hint: Das ist so nicht haltbar. Die Idee der Digital Natives ist mittlerweile überholt. Nur weil Menschen mit digitalen Medien aufwachsen, sind sie nicht per se besser im Umgang. Ob ein digitales Gerät lernförderlich ist, hängt sehr stark von der Nutzung ab. Zwar finden sich viele Studien, die negative Einflüsse auf das Lernen finden, allerdings spielen auch Lernenmerkmale wie die Fähigkeit zur Selbstregulation eine Rolle.
-
 - question: Welches dieser Definitionen entspricht am ehesten der direkten Instruktion?
+  questionid: 7
   answers:
     - answer: Bei der direkten Instruktion lernen Lernende passiv, indem sie zuhören und müssen den Lernstoff eigenständig erlernen.
       correct: False
@@ -85,8 +61,9 @@
       hint: Richtig. Bei der direkten Instruktion werden Lernende zwar von einer Lehrkraft angeleitet, sie erhalten aber zusätzlich Feedback und Übungen.
     - answer: Direkte Instruktion umfasst die Instruktion des Lernstoffs, sowie Übungsaufgaben. Lernende haben die Aufgabe den Lernstoff eigenständig zu erlernen.
       correct: False
-      hint: Nicht ganz. Der erste Teil stimmt. Lernende werden instruiert, sie erhalten auch Übungsaufgaben. Direkte Instruktion ist aber noch weiter strukturiert, indem die Lernenden auch Feedback erhalten. 
+      hint: Nicht ganz. Der erste Teil stimmt. Lernende werden instruiert, sie erhalten auch Übungsaufgaben. Direkte Instruktion ist aber noch weiter strukturiert, indem die Lernenden auch Feedback erhalten.
 - question: Ist direkte Instruktion effektiv für die Aneignung konzeptuellen Wissens?
+  questionid: 5
   answers:
     - answer: Gar nicht gut, da Lernende keine Kontrolle über ihr eigenes Lernen haben.
       correct: False
@@ -99,6 +76,7 @@
       correct: False
 
 - question: Digital Natives gibt es
+  questionid: 6
   answers:
     - answer: Stimmt. Digital Natives gibt es.
       hint: Nein, die Befundlage spricht eindeutig dagegen. Die Generation der Digital Natives ist nicht besonders im Umgang mit digitalen Geräten.
@@ -111,6 +89,7 @@
       correct: False
 
 - question: Ilias ist ein ...
+  questionid: 8
   answers:
     - answer: CMS
       correct: False
@@ -126,6 +105,7 @@
       hint: Nein, das stimmt leider nicht.
 
 - question: Welches dieser Lernaktivitäten wäre im Sinne des Constructive Alignment hierfür sinnvoll?
+  questionid: 9
   answers:
     - answer: Die Nutzer erhalten mehrmals Planetenpaare (z.B. Erde vs. Venus) und müssen den Namen eines Planeten den Bildern zuordnen (z.B. Erde == Bild links)
       correct: True
@@ -138,6 +118,7 @@
       hint: Nein, das fördert nicht Constructive Alignment. Das Ziel ist es, das Sonnensystem erklären zu können, nicht die Eigenschaften einzelner Planeten erklären zu können.
 
 - question: Problembasiertes lernen ist ...
+  questionid: 10
   answers:
     - answer: ein rein entdeckendes Instructional Design Modell.
       hint: Nein, rein entdeckend würde bedeuten, dass es keine Unterstützung für die Lernenden gibt, die gibt es allerdings schon beim problembasierten Lernen. Zudem ist rein entdeckendes Lernen nicht effektiv.
@@ -150,6 +131,7 @@
       hint: Nein, diese Aussage trifft eher auf die direkte Instruktion zu.
 
 - question: Was ist der Unterschied zwischen Problembasiertem Lernen und Projektbasiertem Lernen?
+  questionid: 11
   answers:
     - answer: Im Unterschied zum problembasierten Lernen erstellen Lernende im projektbasierten Lernen Artefakte, die sie als Portfolio anderen Menschen zeigen können.
       hint: Richtig. Das ist der Hauptunterschied.
@@ -160,3 +142,19 @@
     - answer: Im Unterschied zum problembasierten Lernen arbeiten Lernenden an authentischen Aufgaben.
       correct: False
       hint: Nein, beide IDMs versuchen authentische Aufgaben zu verwenden.
+
+- question: Wie viel Prozent der Texte lesen Nutzer auf Webseiten? 
+  questionid: 12
+  answers: 
+    - answer: 28%
+      correct: True
+      hint: Richtig. Nur ungefähr ein Drittel lesen Nutzer auf Webseiten
+    - answer: 77%
+      correct: False
+      hint: Nein. Tipp. Sie lesen weniger
+    - answer: 54%
+      correct: False
+      hint: Nein. Tipp. Sie lesen weniger
+    - answer: 96%
+      correct: False
+      hint: Das ist viel zu hoch. In der Realität ist es deutlich weniger. 

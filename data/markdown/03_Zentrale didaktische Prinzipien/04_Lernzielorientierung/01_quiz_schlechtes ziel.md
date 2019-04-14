@@ -9,4 +9,4 @@ type: question
 ---
 
 
-<multiplechoice question="Welches dieser Lernziele sind schlecht formuliert? 3 Antworten."></multiplechoice>
+<multiplechoice questionid="4"></multiplechoice>
