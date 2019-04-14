@@ -8,96 +8,131 @@ const Aside = styled.div`
   width: ${props => props.showAside ? "100vw" : "100vw"};
   overflow-y: scroll;
   box-sizing: border-box;
-  /* background-color: ${props => props.theme.greyColor}; */
-  /* background-color: ${props => props.theme.darkColorLight}; */
-  background-color: rgb(245, 245, 245);
+  background-color: ${props => props.theme.asideBackgroundColor};
   padding-top: 20px;
   transition: bottom 0.2s;
   padding: 0px 0 80px 0;
   overflow-x: hidden;
-  border-right: ${props => props.theme.darkColor};
-  /* border-right: 1px solid #ececec; */
-  /* box-shadow: 5px 10px 25px 0 rgba(46,61,73,.2); */
+  /* border-right: 1px solid ${props => props.theme.asideBorderRightColor}; */
 
   @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
-    padding: 30px 0 20px 0;
     position: fixed;
     z-index: 1;
     left: 0;
     top: 50px;
     height: calc(100vh - 50px);
     transition: width 0.2s;
-    width: ${props => props.showAsideLeft ? "20vw" : "0vw"};
+    width: ${props => props.showAsideLeft ? "17vw" : "0vw"};
   }
 
   &::-webkit-scrollbar {
     display: none;
+  }
+
+  label.unit-active {
+    /* border-left: 5px solid ${props => props.theme.primaryColor}; */
   }
 `;
 
 const UlAside = styled.ul`
   list-style-type: none;
   margin: 0;
-  padding: 2rem 1rem;
+  position: absolute;
+  padding: 0;
+  height: 100%;
+  width: 100%;
 
   @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
-    padding: 1rem 1.8rem;
+    padding: 0;
   }
 
-  li {
-    a {
-      color: rgb(183, 183, 183);
-      color: #000;
-      font-size: 1.1rem;
-      text-decoration: none;
+
+  #problem > label {
+    background-color: ${props => props.theme.primaryColor};
+    filter: saturate(.5);
+
+    &:hover {
+      background-color: ${props => props.theme.primaryColor};
+      filter: saturate(1);
     }
+  }
 
-    ul {
-      margin: 0;
-      margin-bottom: 20px;
-      padding-left: 0.4rem;
+  #problem {
+    @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
+      position: absolute;
+      width: 100%;
+      bottom: 0px;
+      left: 0;
+    }
+  }
 
-      li {
-        padding-bottom: 0.1rem;
-        margin-bottom: 0;
-        display: flex;
-        flex-direction: row;
-        
-        &:first-child {
-          padding-top: 0.2rem;
+  label {
+    background-color: ${props => props.theme.asideDropdownBackgroundColor};
+    cursor: pointer;
+    width: 100%;
+    padding: 20px;
+    display: block;
+    font-size: 0.9rem;
+    color: ${props => props.theme.asideDropdownTitleTextColor};
+    border-bottom: 1px solid ${props => props.theme.asideBackgroundColor};
+    text-transform: uppercase;
+
+    &:hover {
+     background-color: #57636d; 
+    }
+  }
+
+  .menu-toggle {
+    display: none;
+  }
+
+  // https://codepen.io/Sfate/pen/nLBGr
+  .menu {
+    background-color: ${props => props.theme.asideBackgroundColor};
+    width: 100%;
+    overflow: hidden;
+    max-height: 0;
+    margin: 0 auto;
+    -webkit-transition: all 0.3s ease;
+    padding: 20px;
+    display: none;
+
+    li {
+      margin-bottom: 0;
+      display: flex;
+      flex-direction: row;
+
+      a {
+        color: ${props => props.theme.asideSubunitTextColor};
+        font-size: 1rem;
+        text-decoration: none;
+        background-image: none;
+        text-shadow: none;
+        outline: none;
+
+        &:hover {
+          color: ${props => props.theme.asideSubunitTextColorHover};
         }
 
-        a {
-          color: rgb(183, 183, 183);
-          color: #000;
-          font-size: 1rem;
-          text-decoration: none;
-          background-image: none;
-          text-shadow: none;
-          outline: none;
-
-          &:hover {
-            color: #7f7f7f;
-          }
-
-          li > &:hover {
-            border-right: 4px solid red;
-          }
-
-          &.active {
-            font-weight: bold;
-          }
+        &.active {
+          font-weight: bold;
+          color: #fff;
         }
+      }
 
-        img {
-          height: 20px;
-          padding-right: 10px;
-          margin: 0;
-        }
+      img {
+        height: 20px;
+        padding-right: 10px;
+        margin: 0;
       }
     }
   }
-`;
+
+  .menu-toggle:checked + .menu {
+    max-height: 600px;
+    display: block;
+  }
+}`;
 
 
 export {

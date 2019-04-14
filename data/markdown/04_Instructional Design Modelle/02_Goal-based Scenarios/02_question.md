@@ -8,4 +8,4 @@ subunit: 2
 type: question
 ---
 
-<multiplechoice question="Welche dieser Aussagen zu Goal-Based Scenarios sind korrekt?"></question>
+<multiplechoice id="6"></question>

@@ -52,7 +52,7 @@ const Main = styled.div`
   }
 
   @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
-    width: 65%;
+    width: 70%;
     font-size: 1rem;
     padding-top: 50px;
 
@@ -127,9 +127,9 @@ const Main = styled.div`
       margin-top: 1.6rem;
       padding: 0.8rem;
       margin-bottom: 1.6rem;
-      border-left: 0.4rem solid #ffe564;
-      color: hsla(291, 0%, 18%,0.8);
-      background-color: rgba(255, 229, 100, 0.3);
+      border-left: 0.4rem solid ${props => props.theme.colorTopNavigation};
+      color: hsla(291, 0%, 18%,0.9);
+      background-color: #e5ecf4;
       font-style: italic;
       font-size: 1rem;
   }
@@ -153,10 +153,12 @@ const VideoMain = styled.div`
   width: 100%;
   height: 100%;
   overflow-y: hidden;
-  background-color: #fff;
+  background-color: #000;
+  padding-top: 20vh;
 
   @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
     top: 0px;
+    padding-top: 0;
   }
 
   video, iframe {

@@ -8,6 +8,6 @@ subunit: 50
 type: question
 ---
 
-<singlechoice questionid="2"></singlechoice>
+<singlechoice id="2"></singlechoice>
 
 

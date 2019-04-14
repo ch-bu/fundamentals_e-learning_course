@@ -8,7 +8,7 @@ subunit: 3
 type: instruction
 ---
 
-Ein weiteres typisches Phänomen, das man in den letzten Jahren beobachten kann, ist das Fotografieren von Ereignissen. Bei Konzerten filmen viele Menschen, Lieder mit, um sich später daran erinnern zu können. Aber erinnern sie sich deswegen besser. 
+Ein weiteres typisches Phänomen, das man in den letzten Jahren beobachten kann, ist das Fotografieren von Ereignissen. Bei Konzerten filmen viele Menschen Szenen mit, um sich später daran erinnern zu können. Aber erinnern sie sich deswegen besser. 
 
 ![](https://images.pexels.com/photos/270200/pexels-photo-270200.jpeg?cs=srgb&dl=cell-cellular-phone-concert-270200.jpg&fm=jpg)
 

@@ -1,7 +1,7 @@
 ---
 moduleTitle: Instructional Design Models
 unitTitle: Direkte Instruktion
-title: Einführung
+title: Definition
 module: 4
 unit: 1
 subunit: 1

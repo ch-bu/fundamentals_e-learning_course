@@ -14,4 +14,6 @@ $
 3x + 4 = 7
 $
 
-<orderquestion question="Ordne folgende Schritte der Reihenfolge der direkten Instruktion zu."></orderquestion>
+Versuche einmal die einzelnen Schritte in die richtige Reihenfolge zu bringen. Das obereste Element sollte die Methode darstellen, die zuerst kommt, das letzte Element, diejenige Methode, die zum Schluss dran kommt.
+
+<orderquestion id="5"></orderquestion>

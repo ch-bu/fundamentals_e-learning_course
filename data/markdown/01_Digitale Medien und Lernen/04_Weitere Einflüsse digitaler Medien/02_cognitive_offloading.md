@@ -10,10 +10,11 @@ type: instruction
 
 Googlen ist mittlerweile ein Synonym für das Suchen von Informationen im Web. Wie alt ist Barack Obama? Was genau ist nochmal die Cognitive Load Theory? Wie berechnet man eine einfaktorielle Varianzanalyse? Fast alles Wissen der Menschheit können wir mittlerweile mit ein paar Klicks finden. Die Folge ist etwas, was wir [Cognitive Offloading](https://www.sciencedirect.com/science/article/pii/S1364661316300985) bezeichnen. Anstatt, dass wir versuchen uns Dinge einzuprägen, lernen wir, wie wir diese Informationen beschaffen können. Die Frage ist, welche Folge dieses Cognitive Offloading auf das Lernen hat? 
 
-<iframe width="1922" height="945" src="https://www.youtube.com/embed/erHVG8NiZpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Eine Studie hierzu findet ihr [hier](http://science.sciencemag.org/content/333/6043/776).
 
+<!-- <iframe width="1922" height="945" src="https://www.youtube.com/embed/erHVG8NiZpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-Die Studie von Sparrow, Liu und Wegner (2011) findet ihr [hier](http://science.sciencemag.org/content/333/6043/776) 
+ 
 <!-- 
 Zum einen gibt es Hinweise darauf, dass das Googlen einen Einfluss auf die Erinnerungsleistung hat. [Sparrow, Liu und Wegner (2011)](http://science.sciencemag.org/content/333/6043/776) liesen beispielsweise Probanden unter zwei Bedingungen auf einem Computer lernen. Unter der einen Bedingung wurden den Probanden gesagt, dass die Wörter, die sie lernen sollten wieder gelöscht werden, in der anderen Bedingungen wurden den Probanden gesagt, dass die Wörter gespeichert werden und sie sie wieder anschauen könnten. Sie fanden einen leichten Lerneffekt für die Gruppe, deren Wörter "gelöscht" wurden. Die Interpretation dieser Ergebnisse ist, dass die Probanden weniger kognitive Kapazität verwendeten, wenn sie dachten, dass sie die Wörter ohnehin wieder nachschlagen könnten und daher Cognitive Offloading betrieben.  -->
 

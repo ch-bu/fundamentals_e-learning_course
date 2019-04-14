@@ -9,4 +9,4 @@ type: question
 ---
 
 
-<singlechoice questionid="12"></singlechoice>
+<singlechoice id="12"></singlechoice>

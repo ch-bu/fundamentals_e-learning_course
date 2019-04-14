@@ -8,4 +8,4 @@ subunit: 4
 type: question
 ---
 
-<multiplechoice questionid="1"></multiplechoice>
+<multiplechoice id="1"></multiplechoice>

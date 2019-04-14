@@ -8,4 +8,4 @@ subunit: 0
 type: question
 ---
 
-<singlechoice question="Welches dieser Definitionen entspricht am ehesten der direkten Instruktion?"></singlechoice>
+<singlechoice id="7"></singlechoice>

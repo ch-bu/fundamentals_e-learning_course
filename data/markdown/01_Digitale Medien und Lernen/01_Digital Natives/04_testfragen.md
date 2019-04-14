@@ -10,4 +10,4 @@ type: question
 
 Aus dem Bauch heraus. Beantworte, ob du folgender Aussage zustimmst: 
 
-<singlechoice questionid="6"></singlechoice>
+<singlechoice id="6"></singlechoice>

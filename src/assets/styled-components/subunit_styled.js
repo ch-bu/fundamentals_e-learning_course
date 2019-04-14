@@ -21,7 +21,7 @@ const Container = styled.div`
                          ". main";
     width: ${props => props.showAsideLeft ? "100%" : "60vw"};
     margin: 0 auto;
-    grid-template-columns: ${props => props.showAsideLeft ? "20% 80%" : "0% 100%"};
+    grid-template-columns: ${props => props.showAsideLeft ? "17% 83%" : "0% 100%"};
   }
 `;
 
@@ -39,8 +39,8 @@ const BottomNavigation = styled.div`
   left: 0;
   height: 60px;
   width: 100vw;
-  background-color: #fff;
-  border-top: 1px solid #ccc;
+  background-color: ${props => props.theme.topNavigationBackgroundColor};
+  border-top: 1px solid ${props => props.theme.topNavigationBorderBottom};
 
   a {
     padding: 0 20px;
@@ -49,7 +49,7 @@ const BottomNavigation = styled.div`
     align-items:center;
 
     svg {
-      color: black;
+      color: #fff;
       pointer-events: none;
     }
   }
@@ -60,21 +60,21 @@ const TopNav = styled.div`
   flex-wrap: wrap;
   flex-basis: 100vw;
   height: 70px;
-  background-color: #fff;
+  background-color: ${props => props.theme.topNavigationBackgroundColor};
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
   transition: background-color 0.4s;
   font-size: 1rem;
-  box-shadow: 5px 5px 20px 0 rgba(46,61,73,.2);
-  border-bottom: 1px solid #ccc;
+  box-shadow: 5px 5px 15px 0 rgba(46,61,73,.2);
+  border-bottom: 1px solid ${props => props.theme.topNavigationBorderBottom};
   z-index: 99;
 
   @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
     flex-wrap: nowrap;
     position: fixed;
     height: 50px;
-    flex-basis: 20vw;
+    flex-basis: 17vw;
     top: 0;
     left: 0;
     width: 100vw;
@@ -89,7 +89,7 @@ const TopNav = styled.div`
     flex-direction: row;
     align-self: stretch;
     border-bottom: none;
-    border-right: none;
+    border-right: 1px solid ${props => props.theme.topNavigationBackButtonBorderRight};
     transition: background-color 0.3s;
 
     a {
@@ -97,19 +97,18 @@ const TopNav = styled.div`
       align-self: stretch;
       display: flex;
       align-items:center;
-      color: #000;
+      color: ${props => props.theme.topNavigationTextColor};
       transition: color 0.2s;
       text-decoration: none;
     }
 
     @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
-      background-color: rgb(245, 245, 245);
-      width: 20%;
+      background-color: ${props => props.theme.topNavigationBackButtonBackgroundColor};
+      width: 17%;
       display: ${props => props.showAsideLeft ? "flex" : "none"};
 
       a {
-        color: #fff;
-        color: #000;
+        color: ${props => props.theme.topNavigationTextColor};
       }
     }
 
@@ -121,6 +120,7 @@ const TopNav = styled.div`
 
       svg {
         display: block;
+        color: ${props => props.theme.colorIcons};
         margin: auto;
         height: 25px;
       }
@@ -131,7 +131,7 @@ const TopNav = styled.div`
     }
 
     &:hover {
-      background-color: #e5e5e5;
+      background-color: ${props => props.theme.topNavigationBackButtonBackgroundColorHover};;
     }
   }
 
@@ -141,7 +141,7 @@ const TopNav = styled.div`
     left: -1000px;
     text-align: center;
     align-self: center;
-    color: #000;
+    color: ${props => props.theme.topNavigationTextColor};
     position: relative;
 
     svg {
@@ -150,7 +150,7 @@ const TopNav = styled.div`
       left: 15px;
       height: 25px;
       width: 25px;
-      color: #000;
+      color: ${props => props.theme.colorIcons};
       cursor: pointer;
     }
 

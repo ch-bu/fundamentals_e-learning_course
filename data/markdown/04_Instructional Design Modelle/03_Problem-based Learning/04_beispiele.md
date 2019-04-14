@@ -1,7 +1,7 @@
 ---
 moduleTitle: Instructional Design Models
 unitTitle: Problembasiertes Lernen
-title: Assitance Dilemna
+title: Beispiele
 module: 4
 unit: 3
 subunit: 4
