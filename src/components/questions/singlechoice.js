@@ -1,9 +1,10 @@
 import React from "react"
-import styled from 'styled-components'
+import styled, { consolidateStreamedStyles } from 'styled-components'
 import Button from '../button'
 import { StaticQuery, graphql } from "gatsby"
 import Confetti from 'react-dom-confetti';
 import {reactLocalStorage} from 'reactjs-localstorage';
+import { Shake, ShakeLittle } from 'reshake'
 
 
 const Quiz = styled.div`
@@ -118,12 +119,13 @@ class SingleChoiceComponent extends React.Component {
     this.state = {
       size: "-1",
       // Check if questions has already been answered?
-      alreadyAnswered: reactLocalStorage.get(this.question.question) ? true : false,
+      alreadyAnswered: reactLocalStorage.get("singlechoice-" + this.question.questionid) ? true : false,
       answers: this.shuffleAnswers(this.question.answers),
-      answerCorrect: reactLocalStorage.get(this.question.question) ? true : null,
+      answerCorrect: reactLocalStorage.get("singlechoice-" + this.question.questionid) ? true : null,
       showConfetti: false,
-      hint: reactLocalStorage.get(this.question.question),
-      buttonClicked: false
+      hint: reactLocalStorage.get("singlechoice-" + this.question.questionid + "-hint"),
+      buttonClicked: false,
+      shakeButton: false
     };
 
     this.confettiConfig = {
@@ -147,8 +149,8 @@ class SingleChoiceComponent extends React.Component {
   render() {
     // Decide wheather to show int
     let answer = "";
-    if (this.state.buttonClicked | this.state.alreadyAnswered) {
-      if (this.state.answerCorrect) {
+    if (this.state.buttonClicked || this.state.alreadyAnswered) {
+      if (this.state.answerCorrect || this.state.alreadyAnswered) {
         answer = <Answer answerCorrect={true}>{this.state.hint}</Answer>;
       } else {
         answer = <Answer answerCorrect={false}>{this.state.hint}</Answer>;
@@ -174,7 +176,14 @@ class SingleChoiceComponent extends React.Component {
             </li>;
           })}
         </ul>
-        <Button onClick={this.getAnswer}>Submit Answer</Button>
+
+        {this.state.shakeButton ? 
+          <ShakeLittle >
+            <Button onClick={this.getAnswer}>Submit Answer</Button>
+          </ShakeLittle> : 
+          
+          <Button onClick={this.getAnswer}>Submit Answer</Button>}
+
         {answer}
       </Quiz>
     ); 
@@ -200,6 +209,8 @@ class SingleChoiceComponent extends React.Component {
   }
 
   getAnswer() {
+    var self = this;
+
     if (parseInt(this.state.size) >= 0 & !this.state.alreadyAnswered) {
       const currentQuestion = this.question.answers[this.state.size];
       const answer_correct = currentQuestion.correct;
@@ -211,7 +222,8 @@ class SingleChoiceComponent extends React.Component {
 
       if (answer_correct) {
         // Store correct answer in local storage
-        reactLocalStorage.set(this.question.question, currentQuestion.hint);
+        reactLocalStorage.set("singlechoice-" + this.question.questionid, true);
+        reactLocalStorage.set("singlechoice-" + this.question.questionid + "-hint", currentQuestion.hint);
 
         this.setState({
           showConfetti: answer_correct,
@@ -220,12 +232,18 @@ class SingleChoiceComponent extends React.Component {
         }, () => {
           setTimeout(() => {
             this.setState({showConfetti: false})
-          }, 1000);
+          }, 300);
         });
+      // Answer is not correct
       } else {
         this.setState({
-          answerCorrect: false
+          answerCorrect: false,
+          shakeButton: !this.state.shakeButton
         });
+
+        setTimeout(function() {
+          self.setState({shakeButton: false})
+        }, 400);
       }
     }
   }

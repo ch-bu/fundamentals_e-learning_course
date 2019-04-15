@@ -4,6 +4,7 @@ import Button from '../button'
 import { StaticQuery, graphql } from "gatsby"
 import Confetti from 'react-dom-confetti';
 import {reactLocalStorage} from 'reactjs-localstorage';
+import { ShakeLittle } from 'reshake'
 
 
 const Quiz = styled.div`
@@ -146,12 +147,13 @@ class MultipleChoiceComponent extends React.Component {
     this.state = {
       size: "-1",
       answers: answers,
-      alreadyAnswered: reactLocalStorage.get(this.question.question) ? true : false,
+      alreadyAnswered: reactLocalStorage.get("multiplechoice-" + this.question.questionid),
       correctAnswers: correctAnswers,
       showConfetti: false,
-      answerCorrect: reactLocalStorage.get(this.question.question) ? true : null,
-      hint: reactLocalStorage.get(this.question.question) ? this.question.hint : "",
-      buttonClicked: false
+      answerCorrect: reactLocalStorage.get("multiplechoice-" + this.question.questionid) ? true : null,
+      hint: reactLocalStorage.get("multiplechoice-" + this.question.questionid) ? this.question.hint : "",
+      buttonClicked: false,
+      shakeButton: false
     };
 
     this.getAnswer = this.getAnswer.bind(this);
@@ -162,8 +164,8 @@ class MultipleChoiceComponent extends React.Component {
   render() {
     // Decide wheather to show int
     let answer = "";
-    if (this.state.buttonClicked | this.state.alreadyAnswered) {
-      if (this.state.answerCorrect) {
+    if (this.state.buttonClicked || this.state.alreadyAnswered) {
+      if (this.state.answerCorrect || this.state.alreadyAnswered) {
         answer = <Answer answerCorrect={true}>{"Well done!"}</Answer>;
       } else {
         answer = <Answer answerCorrect={false}>{this.state.hint}</Answer>;
@@ -188,7 +190,14 @@ class MultipleChoiceComponent extends React.Component {
             </li>;
           })}
         </ul>
-        <Button onClick={this.getAnswer}>Submit Answer</Button>
+
+        {this.state.shakeButton ? 
+          <ShakeLittle >
+            <Button onClick={this.getAnswer}>Submit Answer</Button>
+          </ShakeLittle> : 
+          
+          <Button onClick={this.getAnswer}>Submit Answer</Button>}
+
         {answer}
       </Quiz>
     ); 
@@ -214,7 +223,7 @@ class MultipleChoiceComponent extends React.Component {
   }
 
   getAnswer() {
-
+    var self = this;
     var equal = true;
 
     Object.entries(this.state.answers).forEach(
@@ -227,7 +236,8 @@ class MultipleChoiceComponent extends React.Component {
 
     if (equal) {
       // Store correct answer in local storage
-      reactLocalStorage.set(this.question.question, this.question.hint);
+      // reactLocalStorage.set(this.question.question, this.question.hint);
+      reactLocalStorage.set("multiplechoice-" + this.question.questionid, true);
 
       this.setState({
         showConfetti: true,
@@ -242,8 +252,13 @@ class MultipleChoiceComponent extends React.Component {
       if (!this.state.alreadyAnswered) {
         this.setState({
           answerCorrect: false,
-          hint: this.question.hint
+          hint: this.question.hint,
+          shakeButton: !this.state.shakeButton
         });
+
+        setTimeout(function() {
+          self.setState({shakeButton: false})
+        }, 400);
       }
     }
   }
