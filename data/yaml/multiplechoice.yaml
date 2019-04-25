@@ -152,3 +152,27 @@
       correct: True
     - answer: Problembasiertes Lernen kann dennoch Elemente der direkten Instruktion umfassen. 
       correct: True
+
+- question: Welche Schlüsse kannst du aus der Usability-Forschung zum Lesen in digitalen Lernprodukten ziehen? 
+  questionid: 11
+  hint: Nein, das ist noch nicht ganz korrekt
+  answers:
+    - answer: Texte sollten in E-Learning Produkten nicht zu lang sein, da Nutzer auf Displays eher scannen als Lesen
+      correct: True
+    - answer: Es sollten keine Texte in E-Learning Produkten dargestellt werden
+      correct: False
+    - answer: Texte sollten anhand eines F-Schemas aufgebaut sein
+      correct: False
+    - answer: Nutzer sollten die Möglichkeit haben, Texte zu scannen
+      correct: True
+
+- question: Welche theoretischen Erklärungen könnten man noch anführen, um den Seductive Detail Effekt zu erklären?
+  questionid: 12
+  hint: Leider nicht. Denk nochmal drüber nach.
+  answers:
+    - answer: Seductive Details unterbrechen den Gedankengang und stören daher den Aufbau eines kohärenten mentalen Modells des zu lernenden Prinzips oder Konzeptes
+      correct: True
+    - answer: Seductive Details reduzieren die Tiefe der Verarbeitung, da sie häufig einfacher zu verarbeiten sind als der Lernstoff
+      correct: True
+    - answer: - Seductive Details führen dazu, dass Lernende das Wissen anhand missverständlicher Schemata aufbauen
+      correct: True
