@@ -4,7 +4,7 @@ unitTitle: Problembasiertes Lernen
 title: Weiterführende Literatur
 module: 4
 unit: 3
-subunit: 7
+subunit: 8
 type: information
 ---
 

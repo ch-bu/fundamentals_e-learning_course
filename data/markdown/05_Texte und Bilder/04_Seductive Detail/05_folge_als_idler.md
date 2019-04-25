@@ -8,7 +8,7 @@ subunit: 5
 type: instruction
 ---
 
-<videomodeling answer="wCCQ_jEWbm8" question="N9ZYQwlKtvA"></videomodeling>
+<videomodeling answer="N9ZYQwlKtvA" question="wCCQ_jEWbm8"></videomodeling>
 
 
 <!-- -	Question: Du weißt jetzt, dass Seductive Details vor allem für Novizen negative Effekte auf das Lernen haben. Überlege mal kurz, welche Schlussfolgerungen du daraus für dich bei der Entwicklung von Power-Points oder E-Learning Produkten ableiten kannst? 

@@ -3,3 +3,6 @@
   flipcardid: 1
   # imagefront: ./test.jpg
   # imageback: ./back.jpg
+- front: Schauen Nutzer mehr auf die Bilder oder auf die Texte, wenn sie beides sehen?
+  back: Auf die Texte. Bilder werden tatsächlich häufig ignoriert.
+  flipcardid: 2

@@ -9,4 +9,4 @@ type: question
 ---
 
 
-<multplechoice id="12"></multiplechoice>
+<multiplechoice id="12"></multiplechoice>

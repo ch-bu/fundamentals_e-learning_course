@@ -16,4 +16,4 @@ Hier wurde die Komplexität reduziert, indem die unwesentlichen Elemente farblic
 
 Ganz ähnlich können bestimme Inhalte von Grafiken hervorgehoben werden, indem man Informationen irrelevanter Punkte abschwächt oder entfernt. Hier wurden Bewertungen von Serien visualisiert. Der grüne Strich kennzeichnet den linearen Trend über die Jahre. Die grauen Punkte sind bewusst abgeschwächt, um den Trendverlauf der einzelnen Serien hervorzuheben. 
 
-![complexity](complexity2.PNG)
+![complexity](complexity2.png)
