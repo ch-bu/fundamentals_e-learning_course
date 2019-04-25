@@ -8,7 +8,11 @@ subunit: 6
 type: video
 ---
 
-PBL ist gar nicht so einfach in E-Learning Produkten. Das größte Problem ist wohl, die Kollaboration zwischen mehreren Personen herzustellen. Da PBL humanistisch orientiert und den sozialen Austausch in den Vordergrund stellt, scheint PBL gar nicht so geeignet zu sein für E-Learing. 
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/3ESyLsYc13g?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<!-- PBL ist gar nicht so einfach in E-Learning Produkten. Das größte Problem ist wohl, die Kollaboration zwischen mehreren Personen herzustellen. Da PBL humanistisch orientiert und den sozialen Austausch in den Vordergrund stellt, scheint PBL gar nicht so geeignet zu sein für E-Learing. 
 
 The main goal of the studies was not always to improve student learning. Often,
 for example, the reason to use e-learning was to enable PBL in distance learning or
@@ -25,4 +29,4 @@ Nichtsdestotrotz kann PBS in E-Learning Produkten eingesetzt weden. Meistens jed
 * Problembasiertes Lernen über größere Distanzen ermöglichen
 * Ressourcen und Materialien bereit stellen
 
-Problembasiertes Lernen im E-Learning ist daher immer ein Blended Learning Format. Es würde sehr viel Aufwand und Kosten bedeuten, PBL komplett online anzubieten. 
+Problembasiertes Lernen im E-Learning ist daher immer ein Blended Learning Format. Es würde sehr viel Aufwand und Kosten bedeuten, PBL komplett online anzubieten. --> 

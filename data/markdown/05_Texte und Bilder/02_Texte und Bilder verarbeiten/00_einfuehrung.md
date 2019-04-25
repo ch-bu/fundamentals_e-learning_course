@@ -8,4 +8,4 @@ subunit: 0
 type: video
 ---
 
-Selten werden Texte allein dargestellt. Viele Entwickler binden in Textne Bilder und Grafiken en, um die Inhalte zu veranschaulichen. In Psychologietexten werden gerne Bilder von aktiven Gehirnen gezeigt, in der Physik Modelle für verschiedene Phänomene. Wir fragen uns jetzt, was man über die Verarbeitung von Bildern und Texten in E-Learning Produkten weiß.
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/CfYvbN2nKo4?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

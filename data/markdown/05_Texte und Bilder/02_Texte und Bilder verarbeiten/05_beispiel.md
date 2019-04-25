@@ -1,4 +1,4 @@
----
+<!-- ---
 moduleTitle: Texte und Bilder
 unitTitle: Texte und Bilder
 title: Ein Beispiel 
@@ -17,3 +17,4 @@ answer: VideoModeling zeigen. Danach: Viele Suchprozesse treten auf. Irrelevante
 
 <videomodeling answer="" question=""></videomodeling>
 
+ -->

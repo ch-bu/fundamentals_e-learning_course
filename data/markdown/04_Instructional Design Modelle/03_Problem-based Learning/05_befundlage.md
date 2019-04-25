@@ -8,7 +8,8 @@ subunit: 5
 type: instruction
 ---
 
-Video: Die Forschungslage zu problembasierten Lernen ist dicker als bei den Goal-Based Scenarios. Die Studien zeigen, dass problembasiertes Lernen nicht effektiver ist lehrerzentrierte Formate, wenn es darum geht konzeptuelles Wissen zu erlernen. Direkte Instruktion ist hierfür meist effektiver. Die Forschungslage ist leider auch beim Problembasierten Lernen heterogen, allerdings scheint PBL auf die Lange Sicht besser zu funktionieren, konzeptuelles und prozedurales Wissen zu erwerben. Die Ergebnisse verdeutlichen, dass die Auswahl eines IDMs wiederum von den Zielen abhängig sind, die man verfolgt. Einschränkend müssen wir noch sagen, dass Problembasiertes LErnen verstärkt in der Medizin eingestzt wurde und die Ergebnisse eher von soclehn Domänen her zu interpretieren sind. 
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/2WpvBUj6x9c?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ## Empirische Studien zur Effektivität problembasierten Lernens

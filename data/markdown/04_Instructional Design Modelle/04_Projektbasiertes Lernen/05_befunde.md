@@ -8,7 +8,11 @@ subunit: 5
 type: instruction
 ---
 
-Video: Ähnlich wie beim problembasierten Lernen ist die Befundlage beim Projektbasierten Lernen überschaubar. Allerdings stärker als beim problembasierten lernen. Die meisten Studien waren quasi-experimentell und hatten oft keine Kontrollgruppe. Es ist zugegenbenermaßen auch Schwieriger die Effektivität dieses IDM zu testen, da man vor allem den Transfer über einen längeren Zeitraum testen müsste. Herkömmliche TEsts wie Mulitpe choice fragen können diese Fähigkeiten nur annhärend erfassen. Wir können daher nur spekulieren, für welche Zwecke Problembasiertes Lernen eingesetzt werden sollte. Eines ist sicher, viele Online-Anbieter haben in den letzten Jahren zu einem Konzept gewechselt, welche Kurse in der Form der direkten Instruktion mit Projektbasierten Lernen verbinden. Man erhoft sich dadurch das beste aus beiden Welten: Das Erlernen von konzeptuellen Wissen und dem Transfer in die Praxis. Diese Lehrform ist allerdings sehr ressourcenintensiv, da es Mentoren braucht, die die Lernenden begleiten. In jedem Fall ist das Hauptverkaufsargument für Projektbasiertes Lernen die Motivation der Studierenden.  
+<!-- Video: Ähnlich wie beim problembasierten Lernen ist die Befundlage beim Projektbasierten Lernen überschaubar. Allerdings stärker als beim problembasierten lernen. Die meisten Studien waren quasi-experimentell und hatten oft keine Kontrollgruppe. Es ist zugegenbenermaßen auch Schwieriger die Effektivität dieses IDM zu testen, da man vor allem den Transfer über einen längeren Zeitraum testen müsste. Herkömmliche TEsts wie Mulitpe choice fragen können diese Fähigkeiten nur annhärend erfassen. Wir können daher nur spekulieren, für welche Zwecke Problembasiertes Lernen eingesetzt werden sollte. Eines ist sicher, viele Online-Anbieter haben in den letzten Jahren zu einem Konzept gewechselt, welche Kurse in der Form der direkten Instruktion mit Projektbasierten Lernen verbinden. Man erhoft sich dadurch das beste aus beiden Welten: Das Erlernen von konzeptuellen Wissen und dem Transfer in die Praxis. Diese Lehrform ist allerdings sehr ressourcenintensiv, da es Mentoren braucht, die die Lernenden begleiten. In jedem Fall ist das Hauptverkaufsargument für Projektbasiertes Lernen die Motivation der Studierenden.   -->
+
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/gKOVgqH3ZMM?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 ## Weiterführende Literatur

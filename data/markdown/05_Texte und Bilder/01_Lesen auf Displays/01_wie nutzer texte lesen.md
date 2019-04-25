@@ -8,6 +8,9 @@ subunit: 1
 type: video
 ---
 
-Texte auf Webseiten und damit auch E-Learning Produkten werden nie alle gelesen. Vielmehr scannen Nutzer die Texte, um Informationen zu suchen. Die meisten E-Learnings verzichten daher auf lange Texte und versuchen Nutzer das Scannen der Texte zu erleichtern. Lesen ist auf Displays insbesondere schwer, da ein Klick genügt, sich von dem Gedankengang zu befreien. Wir hatten vor zwei Lerneinheiten gesagt, dass das Wissen das Überbleibsel des Denkens ist. Texte können zwar zum Denken anregen, das Medium allerdings verleitet Nutzer sehr schnell dazu, sich von Texten zu entfernen. Ein guter Rat ist es daher, lieber weniger bis kaum Texte einzusetzen und wenn Texte außerhalb der digitalen Lernumgebung lesen zu lassen. 
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/b7oQlli4Woc?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+<!-- Texte auf Webseiten und damit auch E-Learning Produkten werden nie alle gelesen. Vielmehr scannen Nutzer die Texte, um Informationen zu suchen. Die meisten E-Learnings verzichten daher auf lange Texte und versuchen Nutzer das Scannen der Texte zu erleichtern. Lesen ist auf Displays insbesondere schwer, da ein Klick genügt, sich von dem Gedankengang zu befreien. Wir hatten vor zwei Lerneinheiten gesagt, dass das Wissen das Überbleibsel des Denkens ist. Texte können zwar zum Denken anregen, das Medium allerdings verleitet Nutzer sehr schnell dazu, sich von Texten zu entfernen. Ein guter Rat ist es daher, lieber weniger bis kaum Texte einzusetzen und wenn Texte außerhalb der digitalen Lernumgebung lesen zu lassen. 
+ -->
 

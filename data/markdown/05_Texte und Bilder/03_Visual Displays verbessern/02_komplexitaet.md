@@ -12,7 +12,7 @@ Visualisierungen können unterschiedlich komplex sein. Balkendiagramme sind einf
 
 ![complexity](complexity.PNG)
 
-Hiher wurde die Komplexität reduziert, indem die unwesentlichen Elemente farblich transparent visualisiert wurden. Der Staat Brasilien als zentraler Punkt der Visualisierung ist hierdurch stärker hervorgehboen. 
+Hier wurde die Komplexität reduziert, indem die unwesentlichen Elemente farblich transparent visualisiert wurden. Der Staat Brasilien als zentraler Punkt der Visualisierung ist hierdurch stärker hervorgehboen. 
 
 Ganz ähnlich können bestimme Inhalte von Grafiken hervorgehoben werden, indem man Informationen irrelevanter Punkte abschwächt oder entfernt. Hier wurden Bewertungen von Serien visualisiert. Der grüne Strich kennzeichnet den linearen Trend über die Jahre. Die grauen Punkte sind bewusst abgeschwächt, um den Trendverlauf der einzelnen Serien hervorzuheben. 
 

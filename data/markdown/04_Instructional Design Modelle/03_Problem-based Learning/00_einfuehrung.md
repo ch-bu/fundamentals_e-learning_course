@@ -8,7 +8,12 @@ subunit: 0
 type: video
 ---
 
-Probleme sind unvermeidbar, probleme sind lösbar, Lösungen schaffen neue Probleme. So bezeichnet David Deutsch den Zustand der Welt. Problembasiertes Lernen ist ähnlich den Goal-Based Scenarios, nur dass nicht ZIele, sondern Probleme in den Vordergrund gestellt werden. 
+
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/2UN8sFn1L-I?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<!-- Probleme sind unvermeidbar, probleme sind lösbar, Lösungen schaffen neue Probleme. So bezeichnet David Deutsch den Zustand der Welt. Problembasiertes Lernen ist ähnlich den Goal-Based Scenarios, nur dass nicht ZIele, sondern Probleme in den Vordergrund gestellt werden. 
 
 Wir sprechen von größeren Problemen. Content Knowledge 1, dann Problem solving skills in the context of the real world. Das ist motivierend. Das würde ich tun, wenn ich dort arbeiten würde. 
 
@@ -16,4 +21,4 @@ Die Idee stammt aus der Medizin. Das Medizincurrulucum ist häufig sehr weit ent
 
 Problem-basiertes Lernen ist quasi wie Krimidinner. 
 
-Ein Problem wäre zum Beispiel folgendes. Ein Patient kommt in die Praxis und beklagt sich über Schmerzen im unteren Bauchbereich. Deine Aufgabe ist, herauszufinden, wodurch diese Symptome entstehen. Du bist aber nicht aleine mit dem Problem. Mit anderen Studierenden versuchts du über ein paar Tage alle Informationen zu sammeln und das Problem zu lösen. Begleitet werdet ihr von einem Tutor, der hilft euch aber nur unterstützend. 
+Ein Problem wäre zum Beispiel folgendes. Ein Patient kommt in die Praxis und beklagt sich über Schmerzen im unteren Bauchbereich. Deine Aufgabe ist, herauszufinden, wodurch diese Symptome entstehen. Du bist aber nicht aleine mit dem Problem. Mit anderen Studierenden versuchts du über ein paar Tage alle Informationen zu sammeln und das Problem zu lösen. Begleitet werdet ihr von einem Tutor, der hilft euch aber nur unterstützend.  -->

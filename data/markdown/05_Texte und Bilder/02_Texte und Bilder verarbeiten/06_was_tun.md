@@ -8,7 +8,8 @@ subunit: 6
 type: instruction
 ---
 
-Video: Wir können aus der Forschung manche gute Tipps erhalten. Nutzer schauen sich Bilder häufig nicht an und dynamische Bilder sind schwieriger zu verarbeiten als dynamische. Zusätzlich können wir ein Modell aufstellen, wie Nutzer Texte und Bilder verarbeiten und daraus erklären, wie gut Lernende aus einem Beispiel lernen können. Du als INstructional Designer solltest folgende Dinge beachten: 
+<iframe width="1922" height="945" src="https://www.youtube.com/embed/OUwY6sMPqfo?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 
 ## Text und Bild sollten sich inhaltlich überschneiden
 
