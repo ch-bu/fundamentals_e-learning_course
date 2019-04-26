@@ -10,7 +10,6 @@ type: information
 
 
 * Lesen Sie [Rey (2012)](https://ilias.uni-freiburg.de/goto.php?target=file_1267301_download&client_id=unifreiburg)
-* Schauen Sie sich folgende [PowerPoint von Dylan William](https://www.dylanwiliam.org/Dylan_Wiliams_website/Presentations_files/assesslearn.ppt) an. 
-* Analysieren Sie die Power-Point, indem Sie folgende Fragen beantworten: Was stellt in der Power-Point Seductive Detail dar? Wie könnten Bilder in die Power-Point eingebettet werden, ohne, dass sie Seductive Details erzeugen? Wie könnte die Korrespondenz zwischen Text und Bild verbessert werden? Es genügt, wenn Sie die ersten vier Folien analysieren. 
-* Verbessern Sie die ersten vier Folien der Power-Point auf dem Hintergrund Ihrer Analyse. Bringen Sie diese Power-Point in das Seminar mit.
+* Schauen Sie sich [folgenden Artikel](http://www.biologie-schule.de/aktionspotential.php) zum Thema Aktionspotentiale genau an.
+* Analysieren Sie den Artikel, indem Sie: Anhand des Modells der Verarbeitung von Texten und Bildern erklären, welche kognitiven Prozesse die Nutzer ausführen müssen, um Text und Bild zu integrieren; Erklären, weshalb die Integration des Textes und des Bildes in diesem Beispiel besonders schwer ist (zum Beispiel durch Analyse der Korrespondenz); Erklären, wie der Artikel verbessert werden könnte, so dass die Text und Bild Integration gefördert wird. 
 * Laden Sie Ihre Analyse auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_1240096&client_id=unifreiburg) hoch.
