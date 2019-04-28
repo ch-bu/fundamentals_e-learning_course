@@ -9,11 +9,12 @@ const Aside = styled.div`
   overflow-y: scroll;
   box-sizing: border-box;
   background-color: ${props => props.theme.asideBackgroundColor};
+  /* background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%239C92AC' fill-opacity='0.29' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E"); */
   padding-top: 20px;
   transition: bottom 0.2s;
   padding: 0px 0 80px 0;
   overflow-x: hidden;
-  /* border-right: 1px solid ${props => props.theme.asideBorderRightColor}; */
+  border-right: 1px solid ${props => props.theme.asideBorderRightColor};
 
   @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
     position: fixed;
@@ -43,7 +44,7 @@ const UlAside = styled.ul`
   }
 
 
-  #problem > label {
+  /* #problem > label {
     background-color: ${props => props.theme.primaryColor};
     filter: saturate(.3);
 
@@ -59,15 +60,11 @@ const UlAside = styled.ul`
 
   #problem {
     @media only screen and (min-width: ${props => props.theme.breakpointOne}) {
-      position: absolute;
-      width: 100%;
-      bottom: 0px;
-      left: 0;
     }
-  }
+  } */
 
   label {
-    background-color: ${props => props.theme.asideDropdownBackgroundColor};
+    background-color: ${props => props.theme.asideBorderRightColor};
     cursor: pointer;
     width: 100%;
     padding: 20px;
@@ -79,11 +76,11 @@ const UlAside = styled.ul`
     transition: border 0.2s;
 
     &:hover {
-     background-color: #57636d; 
+     filter: brightness(.97);
     }
 
     &.unit-active {
-      border-left: 5px solid ${props => props.theme.primaryColor};
+      border-left: 10px solid ${props => props.theme.primaryColor};
     }
   }
 
@@ -91,9 +88,9 @@ const UlAside = styled.ul`
     display: none;
   }
 
-  // https://codepen.io/Sfate/pen/nLBGr
   .menu {
     background-color: ${props => props.theme.asideBackgroundColor};
+    /* background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%239C92AC' fill-opacity='0.29' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E"); */
     width: 100%;
     overflow: hidden;
     max-height: 0;
@@ -121,7 +118,7 @@ const UlAside = styled.ul`
 
         &.active {
           font-weight: bold;
-          color: #fff;
+          color: ${props => props.theme.asideSubunitTextActive};
         }
       }
 
