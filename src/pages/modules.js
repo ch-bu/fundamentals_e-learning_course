@@ -165,7 +165,7 @@ export default ({ data }) => {
           <title>Your Lessons</title>
         </Helmet>
           <Modules>
-            <h1>Saoirse - An E-Learning Framework</h1>
+            <h1>Grundlagen des E-Learning</h1>
             <Spring
               from={{ opacity: 0 }}
               to={{ opacity: 1 }}
@@ -190,7 +190,7 @@ export default ({ data }) => {
             </Spring>
 
           <Credits><FaStar /><span>Designed and developed by<br />
-            <a target="_blank" href="https:/christianburkhart.de">Christian Burkhart</a>
+            <a target="_blank" href="https://christianburkhart.de">Christian Burkhart</a>
               </span></Credits>
          </Modules>
       </Shell> 
