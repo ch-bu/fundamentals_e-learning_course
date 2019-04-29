@@ -190,7 +190,7 @@ export default ({ data }) => {
             </Spring>
 
           <Credits><FaStar /><span>Designed and developed by<br />
-            <a target="_blank" href="https://christianburkhart.de">Christian Burkhart</a>
+            Christian Burkhart
               </span></Credits>
          </Modules>
       </Shell> 
