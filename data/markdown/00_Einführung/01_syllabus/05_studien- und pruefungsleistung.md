@@ -14,7 +14,7 @@ Das Seminar hat einen Arbeitsaufwand von 5 ECTS-Punkten. Dies entspricht einem A
 
 * **Anwesenheit im Seminar (24 h)**: Erscheinen Sie pünktlich. Sie dürfen **maximal zwei Sitzungen** fehlen. Fehlen Sie öfter, erhalten Sie kompensatorische Ersatzleistungen. Fehlen Sie öfter als 3 mal erhalten Sie unter **keinen Umständen** eine Leistungsbescheinigung für das Seminar.
 * **Bearbeitung der Online-Module (20 h)**. Wöchentlich bearbeiten Sie vor der Präsenzsitzung die Online-Module, die ich Ihnen zur Verfügung stelle. Die Inhalte der Online-Module werden im Seminar besprochen.
-* **Analyse von E-Learning Produkten (50 h)**. Vor jeder Stunde erhalten Sie von mir Ausschnitte aus E-Learning Produkten oder , die Sie eigenständig analysieren. Hierzu lesen Sie vorab einen Fachartikel und analysieren das Produkt anhand der Inhalte des Online-Moduls und des Fachartikels. Die Analyse umfasst 300 Wörter. Insgesamt schreiben Sie 10 Analysen. Zwei Mal dürfen Sie passen. Das bedeutet, Sie müssen mindestens 8 dieser Analysen abgeben. Die Analysen geben Sie auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_1240096&client_id=unifreiburg) ab. 
+* **Analyse von E-Learning Produkten (50 h)**. Vor jeder Stunde erhalten Sie von mir Ausschnitte aus E-Learning Produkten, die Sie eigenständig analysieren. Hierzu lesen Sie vorab einen Fachartikel und analysieren das Produkt anhand der Inhalte des Online-Moduls und des Fachartikels. Die Analyse umfasst 300 Wörter. Insgesamt schreiben Sie 10 Analysen. Zwei Mal dürfen Sie passen. Das bedeutet, Sie müssen mindestens 8 dieser Analysen abgeben. Die Analysen geben Sie auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_1240096&client_id=unifreiburg) ab. 
 
 
 ## Prüfungsleistungen
