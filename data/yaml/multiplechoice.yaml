@@ -176,3 +176,16 @@
       correct: True
     - answer: Seductive Details führen dazu, dass Lernende das Wissen anhand missverständlicher Schemata aufbauen
       correct: True
+
+- question: Welche dieser Situationen wären nach der Cognitive Theory of Multimedia Learning nicht lernförderlich?
+  questionid: 13
+  hint: Noch nicht. Überlege dir nochmal, welche der Belastungen am höchsten sein sollte und arbeite dich von dort weiter.
+  answers:
+    - answer: Hohes Extraneous Processing, mittleres Essential Processing, niedriges Generative Processing
+      correct: False
+    - answer: Geringes Extraneous Processing, mittleres Essential Processing, hohes Generative Processing
+      correct: True
+    - answer: Mittleres Extraneous Processing, hohes Essential Processing, geringes Generative Processing
+      correct: False
+    - answer: Mittleres Extraneous Processing, geringes Essential Processing, hohes Generative Processing
+      correct: False

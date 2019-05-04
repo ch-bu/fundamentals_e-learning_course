@@ -20,7 +20,7 @@ Rey (2012) schrieb eine Meta-Analyse, in der er 39 experimentelle Studien, die d
 
 Um genauer zu untersuchen, weshalb der Seductive Detail Effekt auftritt, führte Rey (2013) eine Eye-Tracking Studie durch. Vier Gruppen erhielten Lernmaterialien die sich einerseits darin unterschieden, dass die Texte Seductive Details enthielten, oder das Seductive Details in der Form von Illustrationen dargestellt wurden. Rey fand, dass die Lernenden zwar keinen Unterschied bei Erinnerungsfragen hatten, dass jedoch Lernende ohne Seductive Details besser bei Transferaufgaben abschnitten als Lernende ohne Seductive Details. Eye-Tracking Daten konnten zeigen, dass dies darauf zurück zu führen war, dass Seductive Details die Aufmerksamkeit der Lernenden vom Lernmaterial ablenkten. Je schlechter Lernende zudem ihre Aufmerksamkeit kontrollieren können, desto stärker wirkt der Seductive Detail Effekt. 
 
-## Weisberg et al. (2008) – The Seductive Allure of Neurscience Explanations
+## Weisberg et al. (2008) – The Seductive Allure of Neuroscience Explanations
 
 Dass gute Intentionen zu negativen Resultaten führen können, zeigten Weisberg et al. (2008). Die Autoren vier Gruppen an Lernenden kurze Erklärungen zu verschiedenen psychologischen Konzepten lesen (z.B. attentional blink). Die Erklärungen enthielten entweder Bezüge zu Gehirnscans oder keiner dieser Bezüge beziehungsweise waren verständlich oder unverständlich geschrieben: 
 

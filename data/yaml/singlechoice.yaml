@@ -158,3 +158,58 @@
     - answer: 96%
       correct: False
       hint: Das ist viel zu hoch. In der Realität ist es deutlich weniger. 
+
+- question: Warum ist eine kognitive Überlastung negativ für das Lernen?
+  questionid: 13
+  answers:
+    - answer: Weil dadurch kaum mehr Kapazität für Generative Processing vorhanden ist.
+      correct: True
+      hint: Richtig. Wir müssen versuchen, die Organisation und die Integration der Lerninhalte zu fördern.
+    - answer: Weil dadurch kaum mehr Kapazität für Essential Processing vorhanden ist.
+      correct: False
+      hint: Das Essential Processing ist die Komplexität des Lernmaterials. Wir können es nicht verändern. Das ist aber nicht der Hauptgrund dafür, dass eine Überlastung sich negativ auf das Lernen auswirkt.
+    - answer: Weil dadurch kaum mehr Kapazität für Extraneous Processing vorhanden ist.
+      correct: False
+      hint: Nein. Extraneous Processing möchten wir vor allem verhindern. Beispielsweise möchten wir keine Seductive Details einstreuen, um nicht die Aufmerksamkeit von Lernenden vom Lernstoff abzulenken. 
+
+- question: Wie könnte diese Überlastung im visuellen Kanal minimiert werden?
+  questionid: 14
+  answers:
+    - answer: Indem das Essential Processing zwischen dem visuellen Kanal und dem auditiven Kanal aufgeteilt wird.
+      correct: True
+      hint: Richtig. Da wir zwei Kanäle haben und diese unabhängig voneinander arbeiten, können wir das Essential Processing auf beide Kanäle aufteilen.
+    - answer: Indem das Generative Processing maximiert wird.
+      correct: False
+      hint: Im Prinzip richtig, aber das können wir nicht einfach tun, wenn der visuelle Kanal überlastet ist. Wir müssten zuerst sicher stellen, dass wir das Essential Processing anders verarbeiten.
+    - answer: Indem das Essential Processing maximiert wird.
+      correct: False
+      hint: Nein. Das ist nicht das Ziel. überlege noch weiter. 
+
+- question: Was bedeutet das Wort redundant?
+  questionid: 15
+  answers:
+    - answer: mehrfach vorhanden
+      correct: True
+      hint: Richtig!
+    - answer: vereinfacht
+      correct: False
+      hint: Nein. Das stimmt nicht.
+    - answer: wiederholend
+      correct: False
+      hint: Nein. Das stimmt nicht.
+    - answer: betont
+      correct: False
+      hint: Nein. Das stimmt nicht.
+
+- question: Um die Redundanz zu reduzieren, muss man einen redundanten Teil der Informationen entfernen. Warum wäre es nicht clever, den auditiven Anteil der redundanten Information zu entfernen?
+  questionid: 16
+  answers:
+    - answer: Da dies wiederum zu einem Modalitätseffekt führen würde.
+      correct: True
+      hint: Richtig. Wir hätten damit das Problem nicht gelöst.
+    - answer: Da die multiple Verarbeitung von Informationen in beiden Kanälen für die Integration notwendig ist.
+      correct: False
+      hint: Nein. Es ist nicht zwingend notwendig, dass beide Kanäle bedient werden. Die Antwort ist eine andere.
+    - answer: Da die auditiven Informationen nicht visuell dargestellt werden können.
+      correct: False
+      hint: Nein, das stimmt nicht. Wir können sehr gut auditive Informationen auch visuell darstellen. 
