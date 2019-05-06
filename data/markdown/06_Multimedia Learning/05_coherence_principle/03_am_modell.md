@@ -5,7 +5,7 @@ title: Kohärenzprinzip am Modell
 module: 6
 unit: 5
 subunit: 3
-type: instruction
+type: video
 ---
 
 
