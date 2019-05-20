@@ -37,3 +37,5 @@ van der Meij, H., & Van Der Meij, J. (2014). A comparison of paper-based and vid
 van Wermeskerken, M., & van Gog, T. (2017). Seeing the instructor's face and gaze in demonstration video examples affects attention allocation but not learning. Computers & Education, 113, 98-107.
 
 Wang, J., & Antonenko, P. D. (2017). Instructor presence in instructional video: Effects on visual attention, recall, and perceived learning. Computers in Human Behavior, 71, 79-89.
+
+Ouwehand, K., van Gog, T., & Paas, F. (2015). Designing effective video-based modeling examples using gaze and gesture cues. Educational Technology & Society (online), 18, 78-88.
