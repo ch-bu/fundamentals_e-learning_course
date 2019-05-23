@@ -213,3 +213,21 @@
     - answer: Da die auditiven Informationen nicht visuell dargestellt werden können.
       correct: False
       hint: Nein, das stimmt nicht. Wir können sehr gut auditive Informationen auch visuell darstellen. 
+- question: It is correct that:
+  questionid: 17
+  answers:
+    - answer: Growth hormone induces production of IGFBP3
+      correct: False
+      hint: Nothing
+    - answer: The predominant insulin-like growth factor binding protein (IGFBP) inhumanserum is IGFBP3
+      correct: False
+      hint: I don't know
+    - answer: Multiple forms of IGFBP are derived from a single gene
+      correct: True
+      hint: I don't know
+    - answer: All of the above
+      correct: False
+      hint: I don't know
+    - answer: Only A and B are correct
+      hint: I don't know
+      correct: False
