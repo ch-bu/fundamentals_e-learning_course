@@ -213,7 +213,7 @@
     - answer: Da die auditiven Informationen nicht visuell dargestellt werden können.
       correct: False
       hint: Nein, das stimmt nicht. Wir können sehr gut auditive Informationen auch visuell darstellen. 
-- question: It is correct that:
+- question: It is correct that
   questionid: 17
   answers:
     - answer: Growth hormone induces production of IGFBP3
