@@ -58,3 +58,25 @@ Verbesserungsvorschläge:
 
 * Es wäre besser für die Motivation und das Verständnis, weniger Fließtext zu verwenden und mehr Anwendungen, Demonstrationen und Aktivierungsaufgaben zu nutzen.
 * Lernziele sollten konkreter formuliert werden, Unterrichtsmethoden sollten sinnvoll eingesetzt werden und es sollte einen auf die Lernziele und Unterrichtsmethoden abgestimmter Leistungsnachweis geben.
+
+## Antwort 7 
+
+Lernziele des gesamten Kurses enthalten kein Ziel oder Hinweis zum Mindfulness. Die Lernziele des Moduls sind schlecht formuliert, enthalten Verben wie verstehen, die nicht konkret und/oder beobachtbar sind.
+Lernziele des Moduls:
+
+1.	Was ist Achtsamkeit, und was hat es mit Glück zu tun?
+2.	Welche Vorteile gibt es bei der Achtsamkeit, oder wenn man die umsetzt, bezogen auf die Forschung?
+3.	Welche Praktiken und Übungen bauen die Achtsamkeit auf?
+4.	Überschau der Forschungsstudien zu den Vorteilen der Achtsamkeit für den Geist, Körper und soziale Beziehungen
+5.	Entdecke wie Achtsamkeit in den Alltag integriert werden kann.
+
+Dadurch dass die Lernziele nicht konkret und ohne Verben formuliert sind, können keine konkreten Methoden umgesetzt und geprüft.
+Überwiegend wird in dem Kurs nur durch Text- und Videomaterial instruiert. Für manche Anwender könnte dies zu eintönig sein. Im Sinne des First Principles of Instruction werden Lernende nicht zum aktiven Lernen angeregt.
+Verbesserungsvorschlag.
+
+Konkrete Lernziele, die beobachtbar sind, neu formulieren. Es ist wichtig zu überlegen, ob nur das Wissen über die Achtsamkeit erworben werden oder soll dieses Wissen auch im Alltag angewendet werden soll.
+
+Im Kurs werden vorhandene TED-Videos verwendet, die keinen Bezug zu anderen Lerninhalten herstellen und eher losgelöst vom Rest betrachtet werden.
+
+Es wäre vorteilhaft, wenn die Lernziele sich auf die tatsächliche Anwendung fokussieren, auch einige Demonstrationen im Kurs finden. Durch die Audio-Dateien im Kurs wird man nicht wirklich angesprochen.
+Generell werden ganz viele und lange Texte verwendet, was den Kurs zu eintönig erscheinen lässt.
