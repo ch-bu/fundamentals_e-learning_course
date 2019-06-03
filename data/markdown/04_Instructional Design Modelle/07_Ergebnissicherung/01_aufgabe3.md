@@ -47,6 +47,12 @@ Das „Produkt“ der Arbeit ist ein gemeinsames Dokument; das der jeweils ander
 ![](gbs1.jpg)
 
 
+## Goal Based Scenarios 2
+
+![](idm.jpg)
+
+Unser Gedanke war eine Studentin, welche in der Vorlesung sitzt und genau diese Dinge durchnimmt. Währenddessen bekommt sie Hunger und kann sich diese Ablenkung sofort anhand der Theorien erklären. Der Arbeitsspeicher ist anhand eines Gehirns dargestellt, durch welches die Studenten im E-learning Produkt reisen soll und bestimmt Aufgaben der Themenentsprechend lösen muss. 
+
 ## Direkte Instruktion 1
 
 ![](di.jpg)
@@ -55,3 +61,4 @@ Das „Produkt“ der Arbeit ist ein gemeinsames Dokument; das der jeweils ander
 ## Projektbasiertes Lernen 1
 
 ![](projekt.PNG)
+
