@@ -231,3 +231,28 @@
     - answer: Only A and B are correct
       hint: I don't know
       correct: False
+- question: Welches dieser Elemente ist kein Gamifikation Element?
+  questionid: 18
+  answers:
+    - answer: Fortschrittsbalken
+      correct: False
+      hint: Nein. Fortschritt ist ein klassiches Merkmal von Spielen und daher auch von Gamification.
+    - answer: Punkte im finalen Test
+      correct: True
+      hint: Richtig. Punkte werden zwar schon verwendet, um Gamification zu erzeugen, aber eher als Scores und nicht als Testpunkte. 
+    - answer: Ranglisten
+      correct: False
+      hint: Ranglisten zeigen den Spielstand von Spielern an und sind daher zentrale Elemente von Gamification Umgebungen.
+- question: Worin besteht der Unterschied zwischen Worked Examples und Gamification?
+  questionid: 19
+  answers:
+    - answer: Worked Examples dienen dem Aufbau von Wissen, während Gamification Nutzer an ein Produkt zeitlich und affektiv binden möchte.
+      correct: True
+      hint: Richtig. Gamification dient nicht vordergründig dem Lernen, sondern der Nutzerbindung.
+    - answer: Worked Examples dienen dem Aufbau von Wissen, während Gamification die Freude von Lernende bei der Benutzung von Produkten steigern möchte.
+      correct: False
+      hint: Das könnte man so denken, ist aber nicht ganz richtig. Zwar soll schon auch die Freude durch Gamification gesteigert werden, allerdings it dies nicht das primäre Ziel.
+    - answer: Worked Examples dienen der effektiveren Aneigung von Wissen, während Gamification Nutzer an ein Produkt zeitlich und affektiv binden möchte.
+      correct: False,
+      hint: Worked Exmaples sind selten effektiver als unterstützendes Problemlösen. Sie sind allerdings effizienter. 
+    

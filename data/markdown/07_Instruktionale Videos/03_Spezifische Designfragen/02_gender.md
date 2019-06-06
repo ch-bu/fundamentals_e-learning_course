@@ -5,7 +5,7 @@ title: Geschlecht
 module: 7
 unit: 3
 subunit: 2
-type: video
+type: instruction
 ---
 
 Soll nun die Lehrperson eine Frau oder ein Mann sein? Sollen es ältere oder jüngere Menschen sein? Sollen uns die Lehrpersonen ähnlich sehen oder ist das ganz egal? Die meisten Untersuchungen zu dieser Frage wurden von [Vincent Hoogerheide]((https://scholar.google.nl/citations?user=Up5QwzIAAAAJ&hl=nl)) durchgeführt. Die Untersuchungen von Hoogerheide kommen zu dem Schluss, dass das Geschlecht der Lehrkräfte in Videos keine Rolle spielt. Das Alter der Modelle war in einer Studie allerdings ein Faktor. Von älteren Lehrkräften wurde mehr gelernt als von jüngeren. Die Daten sind allerdings schwierig zu interpretieren, da noch wenig Forschung dazu existiert. Der zentrale Punkt ist allerdings, dass das Geschlecht keine Rolle zu spielen scheint.  

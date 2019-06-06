@@ -5,7 +5,7 @@ title: Videoformate
 module: 7
 unit: 0
 subunit: 2
-type: video
+type: instruction
 ---
 
 Videos gibt es in ganz verschiedenen Formaten. Hier siehst du eine Auflistung der gängigsten. 

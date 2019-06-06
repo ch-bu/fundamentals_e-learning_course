@@ -12,6 +12,8 @@ Aragon, S. R. (2003). Creating social presence in online environments. New direc
 
 Gunawardena, C. N. (1995). Social presence theory and implications for interaction and collaborative learning in computer conferences. International journal of educational telecommunications, 1(2), 147-166.
 
+Kim, J., Kwon, Y., & Cho, D. (2011). Investigating factors that influence social presence and learning outcomes in distance higher education. Computers & Education, 57(2), 1512-1520.
+
 Laidlaw, K. E., Foulsham, T., Kuhn, G., & Kingstone, A. (2011). Potential social interactions are important to social attention. Proceedings of the National Academy of Sciences, 108(14), 5548-5553.
 
 Lowenthal, P. R. (2010). Social presence. In Social computing: Concepts, methodologies, tools, and applications (pp. 129-136). IGI Global.
