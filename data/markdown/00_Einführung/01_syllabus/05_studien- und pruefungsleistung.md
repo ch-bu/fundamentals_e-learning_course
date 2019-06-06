@@ -8,18 +8,18 @@ subunit: 5
 type: information
 ---
 
-Das Seminar hat einen Arbeitsaufwand von 5 ECTS-Punkten. Dies entspricht einem Arbeitsaufwand von 180 Stunden (siehe [Allgemeine Bestimmungen §3 (5)](http://www.geko.uni-freiburg.de/pruefungsordnungen/bachelor/po-bachelor2011/AllgBest.pdf)). Um das Seminar zu bestehen, rechne ich damit, dass Sie mindestens 50% dieser Stunden in das Seminar tatsächlich investieren. Dies entspricht mindestens 90 Stunden. 
+Das Seminar hat einen Arbeitsaufwand von 5 ECTS-Punkten. Dies entspricht einem Arbeitsaufwand von 150 Stunden (siehe [Allgemeine Bestimmungen §3 (5)](http://www.geko.uni-freiburg.de/pruefungsordnungen/bachelor/po-bachelor2011/AllgBest.pdf)). Um das Seminar zu bestehen, rechne ich damit, dass Sie mindestens 50% dieser Stunden in das Seminar tatsächlich investieren. Dies entspricht mindestens 75 Stunden. 
 
 ## Studienleistungen
 
 * **Anwesenheit im Seminar (24 h)**: Erscheinen Sie pünktlich. Sie dürfen **maximal zwei Sitzungen** fehlen. Fehlen Sie öfter, erhalten Sie kompensatorische Ersatzleistungen. Fehlen Sie öfter als 3 mal erhalten Sie unter **keinen Umständen** eine Leistungsbescheinigung für das Seminar.
 * **Bearbeitung der Online-Module (20 h)**. Wöchentlich bearbeiten Sie vor der Präsenzsitzung die Online-Module, die ich Ihnen zur Verfügung stelle. Die Inhalte der Online-Module werden im Seminar besprochen.
-* **Analyse von E-Learning Produkten (50 h)**. Vor jeder Stunde erhalten Sie von mir Ausschnitte aus E-Learning Produkten, die Sie eigenständig analysieren. Hierzu lesen Sie vorab einen Fachartikel und analysieren das Produkt anhand der Inhalte des Online-Moduls und des Fachartikels. Die Analyse umfasst 300 Wörter. Insgesamt schreiben Sie 10 Analysen. Zwei Mal dürfen Sie passen. Das bedeutet, Sie müssen mindestens 8 dieser Analysen abgeben. Die Analysen geben Sie auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_1240096&client_id=unifreiburg) ab. 
+* **Analyse von E-Learning Produkten (40 h)**. Vor jeder Stunde erhalten Sie von mir Ausschnitte aus E-Learning Produkten, die Sie eigenständig analysieren. Hierzu lesen Sie vorab einen Fachartikel und analysieren das Produkt anhand der Inhalte des Online-Moduls und des Fachartikels. Die Analyse umfasst 300 Wörter. Insgesamt schreiben Sie 10 Analysen. Zwei Mal dürfen Sie passen. Das bedeutet, Sie müssen mindestens 8 dieser Analysen abgeben. Die Analysen geben Sie auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_1240096&client_id=unifreiburg) ab. 
 
 
 ## Prüfungsleistungen
 
-* **Klausur (86 h)**. In der letzten Sitzung schreiben Sie eine Klausur. Zwei Wochen vor der Klausur erhalten Sie eine E-Learning Umgebung, die Sie vor der Klausur analysieren. In der Klausur werden Fragen zu dieser E-Learning Umgebung gestellt.
+* **Klausur (66 h)**. In der letzten Sitzung schreiben Sie eine Klausur. Zwei Wochen vor der Klausur erhalten Sie eine E-Learning Umgebung, die Sie vor der Klausur analysieren. In der Klausur werden Fragen zu dieser E-Learning Umgebung gestellt.
 
 ## Bestehen des Seminars
 
