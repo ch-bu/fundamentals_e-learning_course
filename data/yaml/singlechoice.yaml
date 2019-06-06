@@ -253,6 +253,6 @@
       correct: False
       hint: Das könnte man so denken, ist aber nicht ganz richtig. Zwar soll schon auch die Freude durch Gamification gesteigert werden, allerdings it dies nicht das primäre Ziel.
     - answer: Worked Examples dienen der effektiveren Aneigung von Wissen, während Gamification Nutzer an ein Produkt zeitlich und affektiv binden möchte.
-      correct: False,
+      correct: False
       hint: Worked Exmaples sind selten effektiver als unterstützendes Problemlösen. Sie sind allerdings effizienter. 
     
