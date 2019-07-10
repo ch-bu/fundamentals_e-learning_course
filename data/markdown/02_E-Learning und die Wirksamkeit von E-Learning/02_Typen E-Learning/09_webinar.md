@@ -8,7 +8,7 @@ subunit: 9
 type: instruction
 ---
 
-Ein Webinar ist ein Seminar / ein Vortrag, der live über das Web angeboten wird. Während Screencasts lediglich die Kommunikation von Dozierenden zu Lernenden ermöglichen, geht die Kommunikation in Webinaren in beide Richtungen. Lernende können mit den Dozierenden kommunizieren und Dozierende können mit Lehrenden kommunizieren. Lernende in Webinaren sehen in der Regel entweder live eine Aufnahme der Lehrperson oder eine Bildschirmübertragung des Dozierenden. 
+Ein Webinar ist ein Seminar / ein Vortrag, der live über das Web angeboten wird. Während Screencasts lediglich die Kommunikation von Dozierenden zu Lernenden ermöglichen, geht die Kommunikation in Webinaren in beide Richtungen. Lernende können mit den Dozierenden kommunizieren und Dozierende können mit Lernenden kommunizieren. Lernende in Webinaren sehen in der Regel entweder live eine Aufnahme der Lehrperson oder eine Bildschirmübertragung des Dozierenden. 
 
 ## Beispiel Webinar
 
